@@ -1,0 +1,2497 @@
+app:
+  description: ''
+  icon: 🤖
+  icon_background: '#FFEAD5'
+  mode: advanced-chat
+  name: Math Tutor Agent
+  use_icon_as_answer_icon: false
+dependencies:
+- current_identifier: null
+  type: marketplace
+  value:
+    marketplace_plugin_unique_identifier: langgenius/openai_api_compatible:0.0.19@219552f62b54919d6fd317c737956d3b2cc97719b85f0179bb995e5a512b7ebb
+kind: app
+version: 0.3.0
+workflow:
+  conversation_variables:
+  - description: ''
+    id: 18bf4359-1e36-471c-9c5c-2e0dbf15251f
+    name: sections
+    selector:
+    - conversation
+    - sections
+    value: ''
+    value_type: string
+  - description: ''
+    id: 5b4e5904-7bde-4949-b89c-6bd946b352af
+    name: notes
+    selector:
+    - conversation
+    - notes
+    value: ''
+    value_type: string
+  - description: ''
+    id: 26680466-aa03-41e4-8bb8-a63d08897b0d
+    name: section
+    selector:
+    - conversation
+    - section
+    value: ''
+    value_type: string
+  - description: ''
+    id: f498a1cb-e45e-4883-a353-2fa415cf3a1e
+    name: grade
+    selector:
+    - conversation
+    - grade
+    value: ''
+    value_type: string
+  - description: ''
+    id: edf2df2d-02f8-4ab2-bb4c-9d93c7b10d5e
+    name: problem
+    selector:
+    - conversation
+    - problem
+    value: ''
+    value_type: string
+  - description: ''
+    id: 2f134f75-3cd0-47be-aacb-c1f923531e96
+    name: answer
+    selector:
+    - conversation
+    - answer
+    value: ''
+    value_type: string
+  - description: ''
+    id: e0f352d9-1cca-45fe-b6fc-7b73588d2f61
+    name: purpose
+    selector:
+    - conversation
+    - purpose
+    value: ''
+    value_type: string
+  environment_variables: []
+  features:
+    file_upload:
+      allowed_file_extensions:
+      - .JPG
+      - .JPEG
+      - .PNG
+      - .GIF
+      - .WEBP
+      - .SVG
+      allowed_file_types:
+      - image
+      allowed_file_upload_methods:
+      - local_file
+      - remote_url
+      enabled: false
+      fileUploadConfig:
+        audio_file_size_limit: 50
+        batch_count_limit: 5
+        file_size_limit: 15
+        image_file_size_limit: 10
+        video_file_size_limit: 100
+        workflow_file_upload_limit: 10
+      image:
+        enabled: false
+        number_limits: 3
+        transfer_methods:
+        - local_file
+        - remote_url
+      number_limits: 3
+    opening_statement: ''
+    retriever_resource:
+      enabled: false
+    sensitive_word_avoidance:
+      enabled: false
+    speech_to_text:
+      enabled: false
+    suggested_questions: []
+    suggested_questions_after_answer:
+      enabled: false
+    text_to_speech:
+      enabled: false
+      language: ''
+      voice: ''
+  graph:
+    edges:
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: if-else
+        targetType: question-classifier
+      id: 1752863258248-true-1752863384764-target
+      selected: false
+      source: '1752863258248'
+      sourceHandle: 'true'
+      target: '1752863384764'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: question-classifier
+        targetType: assigner
+      id: 1752863384764-1-1752863449580-target
+      selected: false
+      source: '1752863384764'
+      sourceHandle: '1'
+      target: '1752863449580'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: question-classifier
+        targetType: assigner
+      id: 1752863384764-2-1752863461780-target
+      selected: false
+      source: '1752863384764'
+      sourceHandle: '2'
+      target: '1752863461780'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: question-classifier
+        targetType: assigner
+      id: 1752863384764-1752863411829-1752863465914-target
+      selected: false
+      source: '1752863384764'
+      sourceHandle: '1752863411829'
+      target: '1752863465914'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: assigner
+        targetType: if-else
+      id: 1752863449580-source-1752863606479-target
+      selected: false
+      source: '1752863449580'
+      sourceHandle: source
+      target: '1752863606479'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInLoop: false
+        sourceType: assigner
+        targetType: if-else
+      id: 1752863461780-source-1752863606479-target
+      selected: false
+      source: '1752863461780'
+      sourceHandle: source
+      target: '1752863606479'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInLoop: false
+        sourceType: assigner
+        targetType: if-else
+      id: 1752863465914-source-1752863606479-target
+      selected: false
+      source: '1752863465914'
+      sourceHandle: source
+      target: '1752863606479'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInLoop: false
+        sourceType: if-else
+        targetType: if-else
+      id: 1752863258248-false-1752863606479-target
+      selected: false
+      source: '1752863258248'
+      sourceHandle: 'false'
+      target: '1752863606479'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInLoop: false
+        sourceType: start
+        targetType: if-else
+      id: 1752863244274-source-1752863258248-target
+      selected: false
+      source: '1752863244274'
+      sourceHandle: source
+      target: '1752863258248'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInLoop: false
+        sourceType: if-else
+        targetType: if-else
+      id: 1752863606479-true-1753298078125-target
+      selected: false
+      source: '1752863606479'
+      sourceHandle: 'true'
+      target: '1753298078125'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInLoop: false
+        sourceType: if-else
+        targetType: question-classifier
+      id: 1753298078125-true-17532980936720-target
+      source: '1753298078125'
+      sourceHandle: 'true'
+      target: '17532980936720'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: question-classifier
+        targetType: llm
+      id: 17532980936720-2-1753298134158-target
+      source: '17532980936720'
+      sourceHandle: '2'
+      target: '1753298134158'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: question-classifier
+        targetType: llm
+      id: 17532980936720-1-1753298214293-target
+      source: '17532980936720'
+      sourceHandle: '1'
+      target: '1753298214293'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: llm
+        targetType: answer
+      id: 1753298134158-source-1753298311276-target
+      source: '1753298134158'
+      sourceHandle: source
+      target: '1753298311276'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: tool
+        targetType: assigner
+      id: 1753298330258-source-1753298355860-target
+      source: '1753298330258'
+      sourceHandle: source
+      target: '1753298355860'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: llm
+        targetType: llm
+      id: 1753298214293-source-1753301683790-target
+      source: '1753298214293'
+      sourceHandle: source
+      target: '1753301683790'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: llm
+        targetType: tool
+      id: 1753301683790-source-1753298330258-target
+      source: '1753301683790'
+      sourceHandle: source
+      target: '1753298330258'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: answer
+        targetType: if-else
+      id: 1753298510660-source-1753302513646-target
+      source: '1753298510660'
+      sourceHandle: source
+      target: '1753302513646'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: if-else
+        targetType: assigner
+      id: 1753302513646-true-1753302530579-target
+      source: '1753302513646'
+      sourceHandle: 'true'
+      target: '1753302530579'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: if-else
+        targetType: parameter-extractor
+      id: 1753302850887-true-1753302913774-target
+      selected: false
+      source: '1753302850887'
+      sourceHandle: 'true'
+      target: '1753302913774'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInLoop: false
+        sourceType: if-else
+        targetType: if-else
+      id: 1752863606479-1ba0c2e6-a016-40ea-9f5e-b571cc974a13-1753302850887-target
+      selected: false
+      source: '1752863606479'
+      sourceHandle: 1ba0c2e6-a016-40ea-9f5e-b571cc974a13
+      target: '1753302850887'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: parameter-extractor
+        targetType: assigner
+      id: 1753302913774-source-1753303025071-target
+      selected: false
+      source: '1753302913774'
+      sourceHandle: source
+      target: '1753303025071'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInLoop: false
+        sourceType: assigner
+        targetType: if-else
+      id: 1753303025071-source-17533030559760-target
+      selected: false
+      source: '1753303025071'
+      sourceHandle: source
+      target: '17533030559760'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: if-else
+        targetType: answer
+      id: 17533030559760-true-1753303065423-target
+      selected: false
+      source: '17533030559760'
+      sourceHandle: 'true'
+      target: '1753303065423'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: if-else
+        targetType: if-else
+      id: 1753302850887-false-1753303138338-target
+      selected: false
+      source: '1753302850887'
+      sourceHandle: 'false'
+      target: '1753303138338'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: if-else
+        targetType: tool
+      id: 1753303138338-true-1753303183988-target
+      selected: false
+      source: '1753303138338'
+      sourceHandle: 'true'
+      target: '1753303183988'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: tool
+        targetType: assigner
+      id: 1753303183988-source-1753303240339-target
+      selected: false
+      source: '1753303183988'
+      sourceHandle: source
+      target: '1753303240339'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInLoop: false
+        sourceType: if-else
+        targetType: if-else
+      id: 17533030559760-false-1753303138338-target
+      selected: false
+      source: '17533030559760'
+      sourceHandle: 'false'
+      target: '1753303138338'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: assigner
+        targetType: llm
+      id: 1753303240339-source-1753303282272-target
+      selected: false
+      source: '1753303240339'
+      sourceHandle: source
+      target: '1753303282272'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInLoop: false
+        sourceType: if-else
+        targetType: llm
+      id: 1753303138338-false-1753303282272-target
+      selected: false
+      source: '1753303138338'
+      sourceHandle: 'false'
+      target: '1753303282272'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInLoop: false
+        sourceType: code
+        targetType: answer
+      id: 1753303615487-source-1753298510660-target
+      source: '1753303615487'
+      sourceHandle: source
+      target: '1753298510660'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInLoop: false
+        sourceType: llm
+        targetType: code
+      id: 1753303282272-source-17533038153180-target
+      selected: false
+      source: '1753303282272'
+      sourceHandle: source
+      target: '17533038153180'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInLoop: false
+        sourceType: code
+        targetType: answer
+      id: 17533038153180-source-1753303346441-target
+      selected: false
+      source: '17533038153180'
+      sourceHandle: source
+      target: '1753303346441'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: answer
+        targetType: if-else
+      id: 1753303346441-source-1753304257921-target
+      selected: false
+      source: '1753303346441'
+      sourceHandle: source
+      target: '1753304257921'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: if-else
+        targetType: assigner
+      id: 1753304257921-true-1753304279071-target
+      selected: false
+      source: '1753304257921'
+      sourceHandle: 'true'
+      target: '1753304279071'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: if-else
+        targetType: if-else
+      id: 1752863606479-false-1753304405787-target
+      source: '1752863606479'
+      sourceHandle: 'false'
+      target: '1753304405787'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: if-else
+        targetType: parameter-extractor
+      id: 1753304405787-true-1753304425770-target
+      source: '1753304405787'
+      sourceHandle: 'true'
+      target: '1753304425770'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: parameter-extractor
+        targetType: assigner
+      id: 1753304425770-source-1753304462686-target
+      source: '1753304425770'
+      sourceHandle: source
+      target: '1753304462686'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: assigner
+        targetType: if-else
+      id: 1753304462686-source-1753304644885-target
+      selected: false
+      source: '1753304462686'
+      sourceHandle: source
+      target: '1753304644885'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: if-else
+        targetType: answer
+      id: 1753304644885-true-1753304663002-target
+      selected: false
+      source: '1753304644885'
+      sourceHandle: 'true'
+      target: '1753304663002'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: if-else
+        targetType: if-else
+      id: 1753304405787-false-1753304695969-target
+      source: '1753304405787'
+      sourceHandle: 'false'
+      target: '1753304695969'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: if-else
+        targetType: tool
+      id: 1753304695969-true-1753304746501-target
+      selected: false
+      source: '1753304695969'
+      sourceHandle: 'true'
+      target: '1753304746501'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: tool
+        targetType: assigner
+      id: 1753304746501-source-1753304857636-target
+      selected: false
+      source: '1753304746501'
+      sourceHandle: source
+      target: '1753304857636'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: assigner
+        targetType: llm
+      id: 1753304857636-source-1753304879280-target
+      source: '1753304857636'
+      sourceHandle: source
+      target: '1753304879280'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInLoop: false
+        sourceType: if-else
+        targetType: llm
+      id: 1753304695969-false-1753304879280-target
+      source: '1753304695969'
+      sourceHandle: 'false'
+      target: '1753304879280'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInLoop: false
+        sourceType: if-else
+        targetType: assigner
+      id: 17533049665180-true-17533049665181-target
+      source: '17533049665180'
+      sourceHandle: 'true'
+      target: '17533049665181'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInLoop: false
+        sourceType: if-else
+        targetType: if-else
+      id: 1753304644885-false-1753304695969-target
+      source: '1753304644885'
+      sourceHandle: 'false'
+      target: '1753304695969'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: llm
+        targetType: answer
+      id: 1753304879280-source-1753305092183-target
+      source: '1753304879280'
+      sourceHandle: source
+      target: '1753305092183'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: answer
+        targetType: if-else
+      id: 1753305092183-source-17533049665180-target
+      source: '1753305092183'
+      sourceHandle: source
+      target: '17533049665180'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInLoop: false
+        sourceType: assigner
+        targetType: llm
+      id: 1753298355860-source-1753311191492-target
+      source: '1753298355860'
+      sourceHandle: source
+      target: '1753311191492'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInIteration: false
+        isInLoop: false
+        sourceType: llm
+        targetType: variable-aggregator
+      id: 1753311191492-source-1753311404572-target
+      source: '1753311191492'
+      sourceHandle: source
+      target: '1753311404572'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInLoop: false
+        sourceType: llm
+        targetType: variable-aggregator
+      id: 1753298435259-source-1753311404572-target
+      source: '1753298435259'
+      sourceHandle: source
+      target: '1753311404572'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInLoop: false
+        sourceType: variable-aggregator
+        targetType: code
+      id: 1753311404572-source-1753303615487-target
+      source: '1753311404572'
+      sourceHandle: source
+      target: '1753303615487'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    - data:
+        isInLoop: false
+        sourceType: if-else
+        targetType: llm
+      id: 1753298078125-false-1753298435259-target
+      source: '1753298078125'
+      sourceHandle: 'false'
+      target: '1753298435259'
+      targetHandle: target
+      type: custom
+      zIndex: 0
+    nodes:
+    - data:
+        desc: ''
+        selected: false
+        title: Start
+        type: start
+        variables: []
+      height: 54
+      id: '1752863244274'
+      position:
+        x: 30
+        y: 1418.5
+      positionAbsolute:
+        x: 30
+        y: 1418.5
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        cases:
+        - case_id: 'true'
+          conditions:
+          - comparison_operator: empty
+            id: f33a44b8-e5c5-44ff-a5c2-b7ea70f25edb
+            value: ''
+            varType: string
+            variable_selector:
+            - conversation
+            - purpose
+          id: 'true'
+          logical_operator: and
+        desc: ''
+        selected: false
+        title: IF/ELSE
+        type: if-else
+      height: 126
+      id: '1752863258248'
+      position:
+        x: 364
+        y: 1418.5
+      positionAbsolute:
+        x: 364
+        y: 1418.5
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        classes:
+        - id: '1'
+          name: User needs help with a specific math problem
+        - id: '2'
+          name: User needs help with a broader math subject
+        - id: '1752863411829'
+          name: User needs help with making a schedule for learning
+        desc: ''
+        instructions: ''
+        model:
+          completion_params: {}
+          mode: chat
+          name: llm_en_v_1_3_1
+          provider: langgenius/openai_api_compatible/openai_api_compatible
+        query_variable_selector:
+        - '1752863244274'
+        - sys.query
+        selected: false
+        title: Question Classifier
+        topics: []
+        type: question-classifier
+        vision:
+          enabled: false
+      height: 258
+      id: '1752863384764'
+      position:
+        x: 789
+        y: 1048.5
+      positionAbsolute:
+        x: 789
+        y: 1048.5
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        desc: ''
+        items:
+        - input_type: constant
+          operation: set
+          value: problem
+          variable_selector:
+          - conversation
+          - purpose
+          write_mode: over-write
+        selected: false
+        title: Variable Assigner
+        type: assigner
+        version: '2'
+      height: 88
+      id: '1752863449580'
+      position:
+        x: 1123
+        y: 1048.5
+      positionAbsolute:
+        x: 1123
+        y: 1048.5
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        desc: ''
+        items:
+        - input_type: constant
+          operation: set
+          value: subject
+          variable_selector:
+          - conversation
+          - purpose
+          write_mode: over-write
+        selected: false
+        title: Variable Assigner 2
+        type: assigner
+        version: '2'
+      height: 88
+      id: '1752863461780'
+      position:
+        x: 1123
+        y: 1176.5
+      positionAbsolute:
+        x: 1123
+        y: 1176.5
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        desc: ''
+        items:
+        - input_type: constant
+          operation: set
+          value: schedule
+          variable_selector:
+          - conversation
+          - purpose
+          write_mode: over-write
+        selected: false
+        title: Variable Assigner 3
+        type: assigner
+        version: '2'
+      height: 88
+      id: '1752863465914'
+      position:
+        x: 1123
+        y: 1304.5
+      positionAbsolute:
+        x: 1123
+        y: 1304.5
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        cases:
+        - case_id: 'true'
+          conditions:
+          - comparison_operator: is
+            id: 1b7ab4c0-129d-42a6-ac5b-5f4f01527599
+            value: problem
+            varType: string
+            variable_selector:
+            - conversation
+            - purpose
+          id: 'true'
+          logical_operator: and
+        - case_id: 1ba0c2e6-a016-40ea-9f5e-b571cc974a13
+          conditions:
+          - comparison_operator: is
+            id: fb85077a-970b-43d7-9d65-902be8e7bc9b
+            value: subject
+            varType: string
+            variable_selector:
+            - conversation
+            - purpose
+          logical_operator: and
+        desc: ''
+        selected: false
+        title: IF/ELSE 2
+        type: if-else
+      height: 174
+      id: '1752863606479'
+      position:
+        x: 1457
+        y: 1176.5
+      positionAbsolute:
+        x: 1457
+        y: 1176.5
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        cases:
+        - case_id: 'true'
+          conditions:
+          - comparison_operator: empty
+            id: f9568965-1111-4c32-8ecd-9327d4d2ad90
+            value: ''
+            varType: string
+            variable_selector:
+            - conversation
+            - answer
+          id: 'true'
+          logical_operator: and
+        desc: ''
+        selected: false
+        title: IF/ELSE 6
+        type: if-else
+      height: 126
+      id: '1753298078125'
+      position:
+        x: 1882
+        y: 559.5
+      positionAbsolute:
+        x: 1882
+        y: 559.5
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        classes:
+        - id: '1'
+          name: User provided a specific problem
+        - id: '2'
+          name: User did not provide a specific problem
+        desc: ''
+        instructions: ''
+        model:
+          completion_params: {}
+          mode: chat
+          name: llm_en_v_1_3_1
+          provider: langgenius/openai_api_compatible/openai_api_compatible
+        query_variable_selector:
+        - '1752863244274'
+        - sys.query
+        selected: false
+        title: Question Classifier 2
+        topics: []
+        type: question-classifier
+        vision:
+          enabled: false
+      height: 188
+      id: '17532980936720'
+      position:
+        x: 2550
+        y: 294
+      positionAbsolute:
+        x: 2550
+        y: 294
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        context:
+          enabled: false
+          variable_selector: []
+        desc: ''
+        model:
+          completion_params: {}
+          mode: chat
+          name: llm_en_v_1_3_1
+          provider: langgenius/openai_api_compatible/openai_api_compatible
+        prompt_template:
+        - id: a1635946-488f-441c-b0fb-99e897c40f86
+          role: system
+          text: You are a math tutor. Prompt the user to provide a specific problem
+            for you to help with.
+        selected: false
+        title: LLM
+        type: llm
+        variables: []
+        vision:
+          enabled: false
+      height: 90
+      id: '1753298134158'
+      position:
+        x: 2884
+        y: 294
+      positionAbsolute:
+        x: 2884
+        y: 294
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        context:
+          enabled: false
+          variable_selector: []
+        desc: ''
+        model:
+          completion_params: {}
+          mode: chat
+          name: llm_en_v_1_3_1
+          provider: langgenius/openai_api_compatible/openai_api_compatible
+        prompt_template:
+        - id: b7f88139-a467-4a75-a2bc-a1c32228101d
+          role: system
+          text: You are a math tutor. Provide a query to give to WolframAlpha API
+            to solve the user's problem. For example, "integrate x^2 dx". Provide
+            nothing but the query.
+        - id: 87b1a0c8-8a0c-4237-ab7b-e6466f793d2f
+          role: user
+          text: '{{#sys.query#}}'
+        selected: false
+        title: LLM 2
+        type: llm
+        variables: []
+        vision:
+          enabled: false
+      height: 90
+      id: '1753298214293'
+      position:
+        x: 2884
+        y: 431.5
+      positionAbsolute:
+        x: 2884
+        y: 431.5
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        answer: '{{#1753298134158.text#}}'
+        desc: ''
+        selected: false
+        title: Answer 4
+        type: answer
+        variables: []
+      height: 105
+      id: '1753298311276'
+      position:
+        x: 3218
+        y: 294
+      positionAbsolute:
+        x: 3218
+        y: 294
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        desc: ''
+        is_team_authorization: true
+        output_schema: null
+        paramSchemas:
+        - auto_generate: null
+          default: null
+          form: llm
+          human_description:
+            en_US: ''
+            ja_JP: ''
+            pt_BR: ''
+            zh_Hans: ''
+          label:
+            en_US: problem
+            ja_JP: problem
+            pt_BR: problem
+            zh_Hans: problem
+          llm_description: ''
+          max: null
+          min: null
+          name: problem
+          options: []
+          placeholder: null
+          precision: null
+          required: true
+          scope: null
+          template: null
+          type: string
+        params:
+          problem: ''
+        provider_id: math-tutor-mcp-server
+        provider_name: Math Tutor MCP Server
+        provider_type: mcp
+        selected: false
+        title: solve_math
+        tool_configurations: {}
+        tool_description: "Solve a math problem using WolframAlpha. Does not give\
+          \ step-by-step, only the final answer. Does not work for word problems.\n\
+          \nArgs:\n    problem (str): The math problem to solve.\n\nReturns:\n   \
+          \ str: The solution to the problem."
+        tool_label: solve_math
+        tool_name: solve_math
+        tool_parameters:
+          problem:
+            type: mixed
+            value: '{{#1753298214293.text#}}'
+        type: tool
+        version: '2'
+      height: 86
+      id: '1753298330258'
+      position:
+        x: 3552
+        y: 431.5
+      positionAbsolute:
+        x: 3552
+        y: 431.5
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        desc: ''
+        items:
+        - input_type: variable
+          operation: over-write
+          value:
+          - '1753298330258'
+          - text
+          variable_selector:
+          - conversation
+          - answer
+          write_mode: over-write
+        - input_type: variable
+          operation: over-write
+          value:
+          - '1753301683790'
+          - text
+          variable_selector:
+          - conversation
+          - problem
+          write_mode: over-write
+        selected: false
+        title: Variable Assigner 7
+        type: assigner
+        version: '2'
+      height: 116
+      id: '1753298355860'
+      position:
+        x: 3886
+        y: 431.5
+      positionAbsolute:
+        x: 3886
+        y: 431.5
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        context:
+          enabled: false
+          variable_selector: []
+        desc: ''
+        memory:
+          query_prompt_template: '{{#sys.query#}}'
+          role_prefix:
+            assistant: ''
+            user: ''
+          window:
+            enabled: false
+            size: 50
+        model:
+          completion_params: {}
+          mode: chat
+          name: llm_en_v_1_3_1
+          provider: langgenius/openai_api_compatible/openai_api_compatible
+        prompt_template:
+        - id: 9508fe38-e0ee-4278-b502-62f594f67fe1
+          role: system
+          text: 'You are a math tutor in interactive teaching mode.
+
+
+            BEHAVIOR:
+
+            - Ask exactly one guiding question per turn
+
+            - Never solve steps for the student
+
+            - Compare student responses to the hidden solution
+
+            - Correct student if they are wrong at any step
+
+            - Only validate answers that exactly match the solution ({{#conversation.answer#}})
+
+
+            IMPORTANT NOTE:
+
+            If the user provides an answer that does not exactly match the solution,
+            you must correct them!
+
+
+            After asking one question, STOP. Do not answer your own question. Wait
+            for student response.
+
+
+            When the student has COMPLETELY solved the problem, restate the answer
+            and say "Finished."'
+        selected: false
+        title: LLM 3
+        type: llm
+        variables: []
+        vision:
+          enabled: false
+      height: 90
+      id: '1753298435259'
+      position:
+        x: 4220
+        y: 579.5
+      positionAbsolute:
+        x: 4220
+        y: 579.5
+      selected: true
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        answer: '{{#1753303615487.text#}}'
+        desc: ''
+        selected: false
+        title: Answer 5
+        type: answer
+        variables: []
+      height: 105
+      id: '1753298510660'
+      position:
+        x: 5222
+        y: 431.5
+      positionAbsolute:
+        x: 5222
+        y: 431.5
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        context:
+          enabled: false
+          variable_selector: []
+        desc: ''
+        model:
+          completion_params: {}
+          mode: chat
+          name: llm_en_v_1_3_1
+          provider: langgenius/openai_api_compatible/openai_api_compatible
+        prompt_template:
+        - id: 7de853bc-2568-4030-a9d4-a799d2c442c3
+          role: system
+          text: You are a math tutor. Output only the user's problem that they are
+            trying to solve.
+        - id: 8effe39e-510e-43b1-9019-acd0a91fa6e3
+          role: user
+          text: '{{#sys.query#}}'
+        selected: false
+        title: LLM 4
+        type: llm
+        variables: []
+        vision:
+          enabled: false
+      height: 90
+      id: '1753301683790'
+      position:
+        x: 3218
+        y: 439
+      positionAbsolute:
+        x: 3218
+        y: 439
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        cases:
+        - case_id: 'true'
+          conditions:
+          - comparison_operator: contains
+            id: 7b59f72b-9a33-4490-ad9f-23db74eb2603
+            value: Finish
+            varType: string
+            variable_selector:
+            - '1753303615487'
+            - text
+          id: 'true'
+          logical_operator: and
+        desc: ''
+        selected: false
+        title: IF/ELSE 6
+        type: if-else
+      height: 126
+      id: '1753302513646'
+      position:
+        x: 5556
+        y: 431.5
+      positionAbsolute:
+        x: 5556
+        y: 431.5
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        desc: ''
+        items:
+        - input_type: variable
+          operation: clear
+          value: ''
+          variable_selector:
+          - conversation
+          - problem
+          write_mode: over-write
+        - input_type: variable
+          operation: clear
+          value: ''
+          variable_selector:
+          - conversation
+          - answer
+          write_mode: over-write
+        - input_type: variable
+          operation: clear
+          value: ''
+          variable_selector:
+          - conversation
+          - purpose
+          write_mode: over-write
+        selected: false
+        title: Variable Assigner 7
+        type: assigner
+        version: '2'
+      height: 144
+      id: '1753302530579'
+      position:
+        x: 5890
+        y: 431.5
+      positionAbsolute:
+        x: 5890
+        y: 431.5
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        cases:
+        - case_id: 'true'
+          conditions:
+          - comparison_operator: empty
+            id: 76a2b18e-8b52-4411-b16d-15e5c7223ad2
+            value: ''
+            varType: string
+            variable_selector:
+            - conversation
+            - grade
+          - comparison_operator: empty
+            id: 70e96e93-cd47-424a-8525-2cc20bba4a86
+            value: ''
+            varType: string
+            variable_selector:
+            - conversation
+            - section
+          id: 'true'
+          logical_operator: or
+        desc: ''
+        selected: false
+        title: IF/ELSE 7
+        type: if-else
+      height: 152
+      id: '1753302850887'
+      position:
+        x: 2216
+        y: 1030.5
+      positionAbsolute:
+        x: 2216
+        y: 1030.5
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        desc: ''
+        model:
+          completion_params:
+            temperature: 0.7
+          mode: chat
+          name: llm_en_v_1_3_1
+          provider: langgenius/openai_api_compatible/openai_api_compatible
+        parameters:
+        - description: The math grade level of the user. Must be "7th" or "8th".
+          name: grade
+          required: false
+          type: string
+        - description: The math section the user wants to learn. Should be X.X, e.g.
+            2.1
+          name: section
+          required: false
+          type: string
+        query:
+        - sys
+        - query
+        reasoning_mode: prompt
+        selected: false
+        title: Parameter Extractor
+        type: parameter-extractor
+        variables: []
+        vision:
+          enabled: false
+      height: 90
+      id: '1753302913774'
+      position:
+        x: 2884
+        y: 884.5
+      positionAbsolute:
+        x: 2884
+        y: 884.5
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        desc: ''
+        items:
+        - input_type: variable
+          operation: over-write
+          value:
+          - '1753302913774'
+          - section
+          variable_selector:
+          - conversation
+          - section
+          write_mode: over-write
+        - input_type: variable
+          operation: over-write
+          value:
+          - '1753302913774'
+          - grade
+          variable_selector:
+          - conversation
+          - grade
+          write_mode: over-write
+        selected: false
+        title: Variable Assigner 8
+        type: assigner
+        version: '2'
+      height: 116
+      id: '1753303025071'
+      position:
+        x: 3218
+        y: 879
+      positionAbsolute:
+        x: 3218
+        y: 879
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        cases:
+        - case_id: 'true'
+          conditions:
+          - comparison_operator: empty
+            id: 76a2b18e-8b52-4411-b16d-15e5c7223ad2
+            value: ''
+            varType: string
+            variable_selector:
+            - conversation
+            - grade
+          - comparison_operator: empty
+            id: 70e96e93-cd47-424a-8525-2cc20bba4a86
+            value: ''
+            varType: string
+            variable_selector:
+            - conversation
+            - section
+          id: 'true'
+          logical_operator: or
+        desc: ''
+        selected: false
+        title: IF/ELSE 7 (1)
+        type: if-else
+      height: 152
+      id: '17533030559760'
+      position:
+        x: 3552
+        y: 851.5
+      positionAbsolute:
+        x: 3552
+        y: 851.5
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        answer: Before we get started, can you tell me what grade you're in and what
+          math section you'd like to work on today?
+        desc: ''
+        selected: false
+        title: Answer 5
+        type: answer
+        variables: []
+      height: 150
+      id: '1753303065423'
+      position:
+        x: 4220
+        y: 709.5
+      positionAbsolute:
+        x: 4220
+        y: 709.5
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        cases:
+        - case_id: 'true'
+          conditions:
+          - comparison_operator: empty
+            id: a27e6503-4033-4b8c-8944-c89255b4c937
+            value: ''
+            varType: string
+            variable_selector:
+            - conversation
+            - notes
+          id: 'true'
+          logical_operator: and
+        desc: ''
+        selected: false
+        title: IF/ELSE 9
+        type: if-else
+      height: 126
+      id: '1753303138338'
+      position:
+        x: 4554
+        y: 907
+      positionAbsolute:
+        x: 4554
+        y: 907
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        desc: ''
+        is_team_authorization: true
+        output_schema: null
+        paramSchemas:
+        - auto_generate: null
+          default: null
+          form: llm
+          human_description:
+            en_US: ''
+            ja_JP: ''
+            pt_BR: ''
+            zh_Hans: ''
+          label:
+            en_US: grade
+            ja_JP: grade
+            pt_BR: grade
+            zh_Hans: grade
+          llm_description: ''
+          max: null
+          min: null
+          name: grade
+          options: []
+          placeholder: null
+          precision: null
+          required: true
+          scope: null
+          template: null
+          type: string
+        - auto_generate: null
+          default: null
+          form: llm
+          human_description:
+            en_US: ''
+            ja_JP: ''
+            pt_BR: ''
+            zh_Hans: ''
+          label:
+            en_US: section
+            ja_JP: section
+            pt_BR: section
+            zh_Hans: section
+          llm_description: ''
+          max: null
+          min: null
+          name: section
+          options: []
+          placeholder: null
+          precision: null
+          required: true
+          scope: null
+          template: null
+          type: string
+        params:
+          grade: ''
+          section: ''
+        provider_id: math-tutor-mcp-server
+        provider_name: Math Tutor MCP Server
+        provider_type: mcp
+        selected: false
+        title: retrieve_notes
+        tool_configurations: {}
+        tool_description: "Retrieve notes from a specific section.\n\nArgs:\n    grade\
+          \ (str): The grade level of the notes. Ex: 7th or 8th.\n    section (str):\
+          \ The section to retrieve notes from. Ex: 1.1, 4.3, etc.\n\nReturns:\n \
+          \   str: The retrieved notes."
+        tool_label: retrieve_notes
+        tool_name: retrieve_notes
+        tool_parameters:
+          grade:
+            type: mixed
+            value: '{{#conversation.grade#}}'
+          section:
+            type: mixed
+            value: '{{#conversation.section#}}'
+        type: tool
+        version: '2'
+      height: 86
+      id: '1753303183988'
+      position:
+        x: 5222
+        y: 800
+      positionAbsolute:
+        x: 5222
+        y: 800
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        desc: ''
+        items:
+        - input_type: variable
+          operation: over-write
+          value:
+          - '1753303183988'
+          - text
+          variable_selector:
+          - conversation
+          - notes
+          write_mode: over-write
+        selected: false
+        title: Variable Assigner 9
+        type: assigner
+        version: '2'
+      height: 88
+      id: '1753303240339'
+      position:
+        x: 5556
+        y: 809.5
+      positionAbsolute:
+        x: 5556
+        y: 809.5
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        context:
+          enabled: false
+          variable_selector: []
+        desc: ''
+        memory:
+          query_prompt_template: '{{#sys.query#}}
+
+
+            {{#sys.files#}}'
+          role_prefix:
+            assistant: ''
+            user: ''
+          window:
+            enabled: false
+            size: 50
+        model:
+          completion_params: {}
+          mode: chat
+          name: llm_en_v_1_3_1
+          provider: langgenius/openai_api_compatible/openai_api_compatible
+        prompt_template:
+        - id: 4b036909-578d-452f-8d8f-4ee2d73fcf00
+          role: system
+          text: 'You are a math tutor. Your goal is to teach the user a certain math
+            section in an intuitive, interactive way. First teach the user the topic,
+            then ask the user an interactive question for each topic. Don''t tell
+            them the answer or steps initially. Correct them if they are wrong.
+
+
+            Be sure to teach everything in "Concepts and Skills to be Mastered." Use
+            LaTeX and surround with $$ on each side.
+
+
+            When you are done teaching the user and they are satisfied, say "Finished"
+            and ask what else you can help with.
+
+
+            <Notes>
+
+            {{#conversation.notes#}}
+
+            </Notes>'
+        selected: false
+        title: LLM 5
+        type: llm
+        variables: []
+        vision:
+          enabled: false
+      height: 90
+      id: '1753303282272'
+      position:
+        x: 5890
+        y: 817.5
+      positionAbsolute:
+        x: 5890
+        y: 817.5
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        answer: '{{#17533038153180.text#}}'
+        desc: ''
+        selected: false
+        title: Answer 6
+        type: answer
+        variables: []
+      height: 105
+      id: '1753303346441'
+      position:
+        x: 6558
+        y: 790.5
+      positionAbsolute:
+        x: 6558
+        y: 790.5
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        code: "\ndef main(text: str) -> dict:\n    return {\n        \"text\": text.replace(\"\
+          \\a\", \"\\\\a\").replace(\"\\f\", \"\\\\f\").replace(\"\\t\", \"\\\\t\"\
+          )\n    }\n"
+        code_language: python3
+        desc: ''
+        outputs:
+          text:
+            children: null
+            type: string
+        selected: false
+        title: Prep Response
+        type: code
+        variables:
+        - value_selector:
+          - '1753311404572'
+          - Group1
+          - output
+          value_type: object
+          variable: text
+      height: 54
+      id: '1753303615487'
+      position:
+        x: 4888
+        y: 431.5
+      positionAbsolute:
+        x: 4888
+        y: 431.5
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        code: "\ndef main(text: str) -> dict:\n    return {\n        \"text\": text.replace(\"\
+          \\a\", \"\\\\a\").replace(\"\\f\", \"\\\\f\").replace(\"\\t\", \"\\\\t\"\
+          )\n    }\n"
+        code_language: python3
+        desc: ''
+        outputs:
+          text:
+            children: null
+            type: string
+        selected: false
+        title: Prep Response (1)
+        type: code
+        variables:
+        - value_selector:
+          - '1753303282272'
+          - text
+          value_type: string
+          variable: text
+      height: 54
+      id: '17533038153180'
+      position:
+        x: 6224
+        y: 790.5
+      positionAbsolute:
+        x: 6224
+        y: 790.5
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        cases:
+        - case_id: 'true'
+          conditions:
+          - comparison_operator: contains
+            id: ac911617-555d-410f-ad08-71e1d48d171f
+            value: Finish
+            varType: string
+            variable_selector:
+            - '17533038153180'
+            - text
+          id: 'true'
+          logical_operator: and
+        desc: ''
+        selected: false
+        title: IF/ELSE 9
+        type: if-else
+      height: 126
+      id: '1753304257921'
+      position:
+        x: 6892
+        y: 790.5
+      positionAbsolute:
+        x: 6892
+        y: 790.5
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        desc: ''
+        items:
+        - input_type: variable
+          operation: clear
+          value: ''
+          variable_selector:
+          - conversation
+          - notes
+          write_mode: over-write
+        - input_type: variable
+          operation: clear
+          value: ''
+          variable_selector:
+          - conversation
+          - section
+          write_mode: over-write
+        - input_type: variable
+          operation: clear
+          value: ''
+          variable_selector:
+          - conversation
+          - purpose
+          write_mode: over-write
+        selected: false
+        title: Variable Assigner 9
+        type: assigner
+        version: '2'
+      height: 144
+      id: '1753304279071'
+      position:
+        x: 7226
+        y: 790.5
+      positionAbsolute:
+        x: 7226
+        y: 790.5
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        cases:
+        - case_id: 'true'
+          conditions:
+          - comparison_operator: empty
+            id: 5bd78978-eb2d-44ce-8dd1-849ac8f34d21
+            value: ''
+            varType: string
+            variable_selector:
+            - conversation
+            - grade
+          id: 'true'
+          logical_operator: and
+        desc: ''
+        selected: false
+        title: IF/ELSE 9
+        type: if-else
+      height: 126
+      id: '1753304405787'
+      position:
+        x: 2550
+        y: 1359.5
+      positionAbsolute:
+        x: 2550
+        y: 1359.5
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        desc: ''
+        instruction: ''
+        model:
+          completion_params: {}
+          mode: chat
+          name: llm_en_v_1_3_1
+          provider: langgenius/openai_api_compatible/openai_api_compatible
+        parameters:
+        - description: The math grade level of the user. Must be "7th" or "8th".
+          name: grade
+          required: false
+          type: string
+        query:
+        - sys
+        - query
+        reasoning_mode: prompt
+        selected: false
+        title: Parameter Extractor 2
+        type: parameter-extractor
+        variables: []
+        vision:
+          enabled: false
+      height: 90
+      id: '1753304425770'
+      position:
+        x: 3218
+        y: 1203
+      positionAbsolute:
+        x: 3218
+        y: 1203
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        desc: ''
+        items:
+        - input_type: variable
+          operation: over-write
+          value:
+          - '1753304425770'
+          - grade
+          variable_selector:
+          - conversation
+          - grade
+          write_mode: over-write
+        selected: false
+        title: Variable Assigner 9
+        type: assigner
+        version: '2'
+      height: 88
+      id: '1753304462686'
+      position:
+        x: 3552
+        y: 1194.5
+      positionAbsolute:
+        x: 3552
+        y: 1194.5
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        cases:
+        - case_id: 'true'
+          conditions:
+          - comparison_operator: empty
+            id: dfc75d2b-b39f-436d-b50f-0e4b65ed9da1
+            value: ''
+            varType: string
+            variable_selector:
+            - '1753304425770'
+            - grade
+          id: 'true'
+          logical_operator: and
+        desc: ''
+        selected: false
+        title: IF/ELSE 10
+        type: if-else
+      height: 126
+      id: '1753304644885'
+      position:
+        x: 3886
+        y: 1190.5
+      positionAbsolute:
+        x: 3886
+        y: 1190.5
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        answer: Before we get started, can you tell me what grade you're in?
+        desc: ''
+        selected: false
+        title: Answer 5
+        type: answer
+        variables: []
+      height: 118
+      id: '1753304663002'
+      position:
+        x: 4554
+        y: 1073
+      positionAbsolute:
+        x: 4554
+        y: 1073
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        cases:
+        - case_id: 'true'
+          conditions:
+          - comparison_operator: empty
+            id: a8747a50-2a99-4666-aaeb-2df898e01caa
+            value: ''
+            varType: string
+            variable_selector:
+            - conversation
+            - sections
+          id: 'true'
+          logical_operator: and
+        desc: ''
+        selected: false
+        title: IF/ELSE 11
+        type: if-else
+      height: 126
+      id: '1753304695969'
+      position:
+        x: 4888
+        y: 1179.5
+      positionAbsolute:
+        x: 4888
+        y: 1179.5
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        desc: ''
+        is_team_authorization: true
+        output_schema: null
+        paramSchemas:
+        - auto_generate: null
+          default: null
+          form: llm
+          human_description:
+            en_US: ''
+            ja_JP: ''
+            pt_BR: ''
+            zh_Hans: ''
+          label:
+            en_US: grade
+            ja_JP: grade
+            pt_BR: grade
+            zh_Hans: grade
+          llm_description: ''
+          max: null
+          min: null
+          name: grade
+          options: []
+          placeholder: null
+          precision: null
+          required: true
+          scope: null
+          template: null
+          type: string
+        params:
+          grade: ''
+        provider_id: math-tutor-mcp-server
+        provider_name: Math Tutor MCP Server
+        provider_type: mcp
+        selected: false
+        title: list_sections
+        tool_configurations: {}
+        tool_description: "Get all section identifiers and their titles for a specific\
+          \ grade.\n\nArgs:\n    grade (str): The grade level to retrieve sections\
+          \ for. Ex: 7th or 8th.\n\nReturns:\n    str: A string with each section_id\
+          \ and title on a new line."
+        tool_label: list_sections
+        tool_name: list_sections
+        tool_parameters:
+          grade:
+            type: mixed
+            value: '{{#conversation.grade#}}'
+        type: tool
+        version: '2'
+      height: 86
+      id: '1753304746501'
+      position:
+        x: 5556
+        y: 1121.5
+      positionAbsolute:
+        x: 5556
+        y: 1121.5
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        desc: ''
+        items:
+        - input_type: variable
+          operation: over-write
+          value:
+          - '1753304746501'
+          - text
+          variable_selector:
+          - conversation
+          - sections
+          write_mode: over-write
+        selected: false
+        title: Variable Assigner 10
+        type: assigner
+        version: '2'
+      height: 88
+      id: '1753304857636'
+      position:
+        x: 5890
+        y: 1129.5
+      positionAbsolute:
+        x: 5890
+        y: 1129.5
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        context:
+          enabled: false
+          variable_selector: []
+        desc: ''
+        memory:
+          query_prompt_template: '{{#sys.query#}}
+
+
+            {{#sys.files#}}'
+          role_prefix:
+            assistant: ''
+            user: ''
+          window:
+            enabled: false
+            size: 50
+        model:
+          completion_params: {}
+          mode: chat
+          name: llm_en_v_1_3_1
+          provider: langgenius/openai_api_compatible/openai_api_compatible
+        prompt_template:
+        - id: 6adb73ab-5d36-412b-8ce8-ba937b94b059
+          role: system
+          text: 'You are a math tutor. Your goal is to assist the user in creating
+            a schedule for them to learn the following math sections. Take into account
+            how much time they spend each day/week and their proficiency for each
+            topic. For some context, it takes about 2 hours to learn an entirely new
+            topic.
+
+
+            <sections>
+
+            {{#conversation.sections#}}
+
+            </sections>
+
+
+            Once you are finished, ask if the user is satisfied. If they are, say
+            "Finished" and ask what else you can help with.'
+        selected: false
+        title: LLM 6
+        type: llm
+        variables: []
+        vision:
+          enabled: false
+      height: 90
+      id: '1753304879280'
+      position:
+        x: 6224
+        y: 1083.5
+      positionAbsolute:
+        x: 6224
+        y: 1083.5
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        cases:
+        - case_id: 'true'
+          conditions:
+          - comparison_operator: contains
+            id: ac911617-555d-410f-ad08-71e1d48d171f
+            value: Finish
+            varType: string
+            variable_selector:
+            - '1753304879280'
+            - text
+          id: 'true'
+          logical_operator: and
+        desc: ''
+        selected: false
+        title: IF/ELSE 9 (1)
+        type: if-else
+      height: 126
+      id: '17533049665180'
+      position:
+        x: 6892
+        y: 1101.5
+      positionAbsolute:
+        x: 6892
+        y: 1101.5
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        desc: ''
+        items:
+        - input_type: variable
+          operation: clear
+          value: ''
+          variable_selector:
+          - conversation
+          - sections
+          write_mode: over-write
+        - input_type: variable
+          operation: clear
+          value: ''
+          variable_selector:
+          - conversation
+          - purpose
+          write_mode: over-write
+        selected: false
+        title: Variable Assigner 9 (1)
+        type: assigner
+        version: '2'
+      height: 116
+      id: '17533049665181'
+      position:
+        x: 7226
+        y: 1115.5
+      positionAbsolute:
+        x: 7226
+        y: 1115.5
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        answer: '{{#1753304879280.text#}}'
+        desc: ''
+        selected: false
+        title: Answer 6
+        type: answer
+        variables: []
+      height: 105
+      id: '1753305092183'
+      position:
+        x: 6558
+        y: 1101.5
+      positionAbsolute:
+        x: 6558
+        y: 1101.5
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        context:
+          enabled: false
+          variable_selector: []
+        desc: ''
+        memory:
+          query_prompt_template: '{{#sys.query#}}'
+          role_prefix:
+            assistant: ''
+            user: ''
+          window:
+            enabled: false
+            size: 50
+        model:
+          completion_params: {}
+          mode: chat
+          name: llm_en_v_1_3_1
+          provider: langgenius/openai_api_compatible/openai_api_compatible
+        prompt_template:
+        - id: 299685bc-9087-44f3-a4a7-808d1be47923
+          role: system
+          text: 'You are a math tutor in interactive teaching mode.
+
+
+            BEHAVIOR:
+
+            - Ask exactly one guiding question per turn
+
+            - Never solve steps for the student
+
+            - Compare student responses to the hidden solution
+
+            - Correct student if they are wrong at any step
+
+            - Only validate answers that exactly match the solution ({{#conversation.answer#}})
+
+
+            IMPORTANT NOTE:
+
+            If the user provides an answer that does not exactly match the solution,
+            you must correct them!
+
+
+            After asking one question, STOP. Do not answer your own question. Wait
+            for student response.'
+        - id: a82b220c-6bf4-4870-8283-b31048bfd67f
+          role: user
+          text: 'Problem: {{#conversation.problem#}}
+
+
+            Solution: {{#conversation.answer#}}
+
+
+            IMPORTANT: Check my answers exactly against this solution. Do not accept
+            partial credit or close answers.
+
+
+            Begin tutoring by asking your first guiding question.'
+        selected: false
+        title: LLM 7
+        type: llm
+        variables: []
+        vision:
+          enabled: false
+      height: 90
+      id: '1753311191492'
+      position:
+        x: 4220
+        y: 431.5
+      positionAbsolute:
+        x: 4220
+        y: 431.5
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    - data:
+        advanced_settings:
+          group_enabled: true
+          groups:
+          - groupId: b1b20049-7914-4bc6-a13d-c494aeb6f6fc
+            group_name: Group1
+            output_type: string
+            variables:
+            - - '1753311191492'
+              - text
+            - - '1753298435259'
+              - text
+        desc: ''
+        output_type: string
+        selected: false
+        title: Variable Aggregator
+        type: variable-aggregator
+        variables:
+        - - '1753311191492'
+          - text
+      height: 131
+      id: '1753311404572'
+      position:
+        x: 4554
+        y: 431.5
+      positionAbsolute:
+        x: 4554
+        y: 431.5
+      selected: false
+      sourcePosition: right
+      targetPosition: left
+      type: custom
+      width: 244
+    viewport:
+      x: -4044.297778208771
+      y: -164.5752359424422
+      zoom: 0.6064640416723968

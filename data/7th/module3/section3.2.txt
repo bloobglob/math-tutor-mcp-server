@@ -1,0 +1,19 @@
+## Section 3.2: Communicate Numeric Ideas and Contexts Using Mathematical Expressions, Part 2
+### Section Overview:
+This section contains a brief review of numerical expressions. Students will recognize that a variety of expressions can represent the same situation. Models are encouraged to help students connect properties of arithmetic in working with numeric expressions to working with algebraic expressions. These models, particularly Algebra tiles, aid students in the transition to abstract thinking and representation. Students extend knowledge of mathematical properties (commutative property, associative property, etc.) from purely numerical problems to expressions. The distributive property is emphasized and factoring ("backwards distribution") is introduced. Work on naming and formally defining properties is at the end of the section. Throughout the section, students should be encouraged to explain their logic and critique the logic of others.
+### Concepts and Skills to be Mastered (from standards)
+By the end of this section, students should be able to:
+
+Use the Distributive Property to expand and factor linear expressions with rational numbers.
+Combine like terms with rational coefficients.
+Recognize and explain the meaning of a given expression and its component parts.
+Recognize that different forms of an expression may reveal different attributes of the context.
+
+### Example Problems
+
+Model: 2x + 2y Can you write 2x + 2y in a different way? How?
+Model 5(2x + 1) and then simplify. Write 5(2x + 1) in two different ways.
+Ray's parents agree to give him x minutes of screen time for every math test that he earns a 90 or higher. Last month, Ray got i scores higher than 90. This month, Ray got j scores higher than 90. Which expression represents the total number of minutes of screen time Ray gets?
+Simplify each expression without using models: 5 + 2(x − 3)
+Name the property/definition shown: 2 ∙ 5 ∙ 3 = 2(5 ∙ 3)
+Model the expression 2x + 4 on your desk and then build the pieces into a solid rectangle. Find the factors and write 2x + 4 in factored form.

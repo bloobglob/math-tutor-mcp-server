@@ -1,0 +1,23 @@
+## Section 3.3: Construct and Interpret Scatterplots
+
+### Section Overview:
+In 7th grade, students studied univariate data. In this section, students focus on bivariate data, specifically quantitative or numerical data. Students learn how to construct, read, and interpret a scatterplot, investigate and describe trends and patterns of association between two variables, and interpret these associations in a variety of real-world situations. For scatterplots that suggest a linear association, students informally fit a straight line to the data and assess the model fit by judging the closeness of the data points to the line. Students create lines of best fit to model the data sets that suggest a linear association and use the equations to make predictions and solve real-world problems, noting that limitations exist for extreme values of x. Students interpret the slope and y-intercept of the lines of best fit in context.
+
+### Concepts and Skills to be Mastered:
+By the end of this section students should be able to:
+• Read, interpret, and construct a scatterplot for bivariate data.
+• Describe patterns of association in a scatterplot.
+• Draw a line of best fit for linear models.
+• Informally assess the model fit by judging the closeness of the data points to the line.
+• Write a prediction equation for the line of best fit.
+• Explain the meaning of the slope and y-intercept of the prediction equation in context.
+• Use the prediction equation of a linear model to solve problems.
+
+### Example Problems
+1. Jenny is a hair stylist and decides to record the amount of money she makes in tips over a 10-day period. She wonders if the amount she earns in tips is associated with the number of clients she has each day. What does the point (9, 100) represent in the context? What observations can you make about the scatterplot?
+
+2. The scatterplot shows the weight, in pounds, of a professional wrestler who is on a strict diet. Using a ruler, draw a line of best fit through the data points that captures the general trend of the data. What does the slope represent in the context? What does the y-intercept represent in the context?
+
+3. Jessie conducts an experiment and randomly surveys 52 students at her school, asking if they have a curfew and if they have household chores. She organizes her findings into a two way frequency table. How many students have a curfew and have chores? Of the students who have chores, what percent of them also have a curfew?
+
+4. Tracy wants to know if there is an association between gender and the type of movie a person prefers. She surveys 500 people and discovers various statistics about their preferences. Complete the two-way frequency table to represent the data.

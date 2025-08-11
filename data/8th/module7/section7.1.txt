@@ -1,0 +1,18 @@
+## Section 7.1: Explore Linear and Non-Linear Functions
+
+### Section Overview:
+This section begins by using a context to introduce a relation that represents a function and one that does not represent a function. By analyzing several contextual examples, students derive their own definition of a function. In the next section, the vending machine analogy is used to help students further their understanding of a function and input and output values. Students write functions in function notation and learn that the input is the domain and the output is the range. Students formally build and model functions in later sections and determine if a relation is a function from different representations (i.e. table, graph, mapping, story, patterns, equations, and ordered pairs). Students then focus on the characteristics that separate linear from nonlinear functions. Finally, they analyze different representations of a function to determine whether or not the representations suggest a linear relationship between two variables.
+
+### Concepts and Skills to be Mastered:
+- Understand that a function is a rule that assigns to each input exactly one output.
+- Understand that f(x) is function notation, is read “f of x”, and indicates that the equation is a function.
+- Identify if a relation represents a function given different representations (i.e., table, graph, mapping, story, patterns, equations, and ordered pairs).
+- Distinguish between linear and nonlinear functions given a context, table, graph, or equation.
+
+### Example Problems
+1. Vanessa is buying bouncy balls at the arcade in Mallmart, where for every quarter she puts into the arcade, she gets out three bouncy balls. Complete table of values and create a graph for this situation.
+2. Kyle is across town at Bright Aide purchasing bouncy balls at their arcade. The table relates the number of quarters he puts into the machine and how many bouncy balls he gets out.
+3. Ashley says that all linear equations are functions. Is she correct? Explain why or why not and justify your reasoning by sketching a graph.
+4. Consider the relationship between stage number and number of boxes in a stage. Can it be modeled by a linear function? Create a table, graph, and equation.
+5. Owen earns quarters each day that he makes his bed. On day 1 he earns 2 quarters, day 2 he earns 4 quarters, and so on.
+6. Carbon-14 has a half-life of 5,730 years. The table below shows the amount of carbon-14 that will remain after a given number of years. Consider the relationship between years and amount remaining.

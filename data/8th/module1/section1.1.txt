@@ -1,0 +1,28 @@
+## Section 1.1: Creating and Solving Multi-Step Linear Equations and Inequalities
+
+### Section Overview:
+This section begins with a review of writing and simplifying algebraic expressions. Students evaluate algebraic expressions and create expressions to represent real-world situations. They apply their understanding of algebraic expressions to solving linear equations. Students solve linear equations by collecting like terms, applying the distributive property, and clearing fractions. They write contexts to match equations and write equations to match contexts. Students solve linear inequalities and equations involving absolute value.
+
+### Concepts and Skills to be Mastered:
+By the end of this section, students should be able to:
+- Understand the meaning of linear expression and linear equation.
+- Simplify linear expressions, including those requiring expanding using the distributive property and collecting like terms.
+- Write and simplify linear expressions that model real-world contexts.
+- Translate between the concrete and symbolic representations of an expression and an equation.
+- Solve multi-step linear equations with rational coefficients, including equations whose solutions require expanding expressions using the distributive property and collecting like terms.
+- Write and solve multi-step linear equations that model real-world contexts.
+- Solve multi-step linear inequalities.
+- Solve equations involving absolute value.
+
+### Example Problems
+1. Emma is playing a popular video game and is determined to beat the high score. The game saves her place so that each time she plays it again, she picks up in the same place with the same number of points. Emma downloads the video game on Monday night and starts playing, scoring a bunch of points. On Tuesday, she scores an additional 500 points. On Wednesday, she doubles her total score from the previous day. On Thursday, she scores the same number of points that she scored on Monday.
+
+2. A salesperson gets a base salary of $300 per week plus $20 for each item he sells. He sells x items in one week. The salesperson also spends $40 a week on travel expenses.
+a. Identify the unknown quantity. Write an expression that represents the total amount of money that the salesperson had at the end of the week. Simplify the expression.
+b. If the salesperson sold 50 items, how much money did he earn at the end of the week?
+
+3. You and your family want to rent a limousine for your graduation party. The limousine costs $650 for the evening and $1.30 per mile. If you want to spend at most $700, how many miles can you travel in the limousine? Round your answer to the nearest mile.
+
+4. Solve |x - 3| = 7. Show all of your work.
+
+5. The length of a certain rectangle is 4 meters greater than five times its width. Find the dimensions of the rectangle if its perimeter is 20 meters.

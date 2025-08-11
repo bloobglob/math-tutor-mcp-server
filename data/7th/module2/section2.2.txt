@@ -1,0 +1,30 @@
+## Section 2.2: Multiply, Divide Integers. Add, Subtract, Multiply, Divide Positive Rational Numbers
+
+### Section Overview:
+In Section 2.2 students encounter multiplication with integers. The basic definition of multiplication of whole numbers as repeated addition reads "if a and b are non-negative numbers, then a⋅ b is read as 'a times b,' and means the total number of objects in a groups if there are b objects in each group."
+
+Students know that 3 × 5 represents the total number of objects in 3 groups if there are 5 objects in each group. If we use the same interpretation, then 3 × (–5) is the total number of objects in 3 groups if there are (–5) objects in each group. Thus, (–5) + (–5) + (–5) = –15. Integer multiplication can also be modeled using the chip/tile model. Since 3 × 5 can be thought of as "3 groups of 5 white tiles," the operation 3 × (–5) can be thought of as "3 groups of 5 gray tiles."
+
+The final operation that students study in this section is division. Multiplication has an inverse operation, division. For instance, (3)(5) = 15, so 15 ÷ 3 = 5 and 15 ÷ 5 = 3.
+
+Division for integers can be viewed as an extension of whole number division and is defined in the following manner: If a and b are any integers, where b ≠ 0 then a ÷ b is the unique (one and only one) integer (or rational number) c, such that a = bc.
+
+Since division and multiplication are inverse operations, it comes as no surprise that the rules (or discoveries students make…such as a negative number multiplied/divided by a negative number is a positive) for dividing integers are the same for multiplication.
+
+By the end of this section, students should come to understand that when multiplying or dividing, one can count the number of negatives to determine if the result is positive or negative (assuming none of the factors is 0), but that this strategy will not work for adding or subtracting integers.
+
+### Concepts and Skills to be Mastered (from standards):
+By the end of this section, students should be able to:
+1. Multiply and divide integers and use properties of arithmetic to model multiplication and division of integers.
+2. Interpret products and quotients of integers in real-world contexts.
+3. Model and solve real-world problems using numbers and operations.
+4. Explain the solution to a real-world problem in context.
+
+### Example Problems
+1. David lost 60 points on his exam. He got 12 questions wrong out of 50 questions. How much was David penalized for each wrong answer if each question was worth the same amount?
+
+2. Wally buys a trolley pass for $30 to go to a Padres game. Every time he rides the trolley, money is deducted from the value of the pass. He rode 12 times and $24 was deducted from the value of the pass. How much does each trolley ride cost?
+
+3. Write the missing factor in the multiplication (or division) problem: 3 × _____ = 12
+
+4. Show how you could use related multiplication problems to find each quotient: 12 ÷ (−3)

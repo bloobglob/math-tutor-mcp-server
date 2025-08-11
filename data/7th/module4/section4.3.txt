@@ -1,0 +1,23 @@
+## Section 4.3: Solve Multi-Step Real-World Problems Involving Equations, Inequalities, and Percentages
+
+### Section Overview:
+This section begins with a review of solving multi-step equations, both with and without models, within a context. Students then build on that understanding to work with more complicated situations. Activities in this section have students working in two "different directions"—in some sections students will be given a context and asked to find relationships and solutions, while in other sections, students will be given relationships and asked to write contexts. The goal is to help students understand the structure of context in relationship to algebraic representations.
+
+Students will learn how to solve percent problems using equations. They will begin by modeling percent problems using a drawn model. Then they will translate that model into an equation which they will solve. Students will use similar reasoning to move to problems of percent of increase and percent of decrease. Finally, students will put all of their knowledge together to solve percent problems of all types.
+
+### Concepts and Skills to be Mastered (from standards)
+1. Recognize and explain the meaning of a given expression and its component parts when using percents.
+2. Recognize and explain the meaning of a given expression or equation and its component parts.
+3. Solve multi-step real-life percent problems involving calculations with positive and negative rational numbers in a variety of forms.
+4. Convert between forms of a rational number to simplify calculations and communicate solutions meaningfully.
+5. Use variables to create equations that model word problems.
+6. Solve word problems leading to linear equations.
+
+### Example Problems
+1. Andy has $550 in a savings account at the beginning of the summer. He wants to have at least $200 in the account by the end of the summer. He wants to withdraw $25 each week for food, clothes, and movie tickets. How many weeks will his money last?
+2. The sum of three consecutive integers is no more than 41. Find the largest set of these numbers.
+3. Find two consecutive even integers whose sum is 126. Find the integers.
+4. At the store, you find a pair of jeans and a t-shirt. Together, they'll cost $80.20. The jeans cost three times the cost of the t-shirt. How much does each cost?
+5. The perimeter of a rectangle is 32 cm. The length is 1 cm more than twice the width. Find the dimensions of the rectangle.
+6. To pass a test you need to get 70% correct. There are 50 questions on the test. How many do you need to answer correctly in order to pass?
+7. 30% of my books are science fiction. If I have 60 science fiction books, how many books do I have all together?

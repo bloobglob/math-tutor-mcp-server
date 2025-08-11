@@ -1,0 +1,18 @@
+## Section 3.1: Communicate Numeric Ideas and Contexts Using Mathematical Expressions, Part 1
+### Section Overview:
+This section contains a brief review of numerical expressions. Students will recognize that a variety of expressions can represent the same situation. Models are encouraged to help students connect properties of arithmetic in working with numeric expressions to working with algebraic expressions. These models, particularly algebra tiles, aid students in the transition to abstract thinking and representation. Students extend knowledge of mathematical properties (commutative property, associative property, etc.) from purely numerical problems to algebraic expressions. Throughout the section students should be encouraged to explain their logic and critique the logic of others.
+### Concepts and Skills to be Mastered (from standards)
+By the end of this section, students should be able to:
+
+Combine like terms with rational coefficients.
+Recognize and explain the meaning of a given expression and its component parts.
+Recognize that different forms of an expression may reveal different attributes of the context.
+
+### Example Problems
+
+Josh made five 3-pointers and four 2-pointers at his basketball game. How many points did he score?
+I started with 12 jellybeans. Sam ate 3 jellybeans and then Kyle ate y jellybeans. How many jellybeans were left?
+Jill bought 12 apples. Jan bought x more apples than Jill. How many apples did Jan buy?
+Tim is 3 years younger than his brother. If his brother is y years old, how old is Tim?
+Write an expression for what you see and then write the expression in simplest form: 2x + 1 + x
+Simplify each expression by combining all like terms: 6x^2 + 3x + 7 + (2x^2 − 6x − 4)

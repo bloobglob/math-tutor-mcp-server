@@ -1,0 +1,20 @@
+## Section 4.1: Understand Solutions of Simultaneous Linear Equations by Graphing and Substitution
+
+### Section Overview:
+In this section, students are solving simultaneous linear equations that have one, no, or infinitely many solutions using intuitive, graphical, and substitution methods. Initially, students may use logic, and create pictures, bar models, and tables. They will solve simultaneous linear equations using a graphical approach, understanding that the solution is the point of intersection of the two graphs. They will solve simultaneous linear equations using substitution, and apply this method to solving real-world problems. Students will understand what it means to solve two linear equations, that is, finding all pairs (if any) of numbers that are solutions of both equations, and they will interpret the solution in a context.
+
+### Concepts and Skills to Master:
+By the end of this section, students should be able to:
+• Understand what it means to solve a system of equations.
+• Identify and provide examples of systems of equations that have one solution, infinitely many solutions, or no solution.
+• Interpret the solution to a system in a context.
+• Solve simultaneous linear equations by graphing.
+• Solve simultaneous linear equations by substitution.
+• Solve real-world problems using substitution.
+
+### Example Problems
+1. The student council is planning a bake sale to raise money for a local food pantry. Students are going to be making apple and peach pies. They have decided to make 10 pies, and each pie requires 2 pounds of fruit. Therefore, they need a total of 20 pounds of fruit. One pound of apples costs $2 and one pound of peaches costs $1. Mrs. Harper, the student council advisor, tells the students they have exactly $28 to spend on fruit. How many pounds of each type of fruit should they buy so that they have the required 20 pounds of fruit and spend exactly $28?
+
+2. Kevin and Nina are competing in a bike race. When Kevin is 90 miles into the race, he is 15 miles ahead of Nina. From this point on, Kevin continues the race at a constant rate of 25 mph and Nina continues the race at a constant rate of 30 mph.
+
+3. Consider the linear equations y = 2x + 1 and y = -x + 7. Graph both equations on the coordinate plane below and state the coordinates of the point of intersection.

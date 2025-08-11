@@ -1,0 +1,47 @@
+## Section 5.2: Analyze Proportional Relationships Using Unit Rates, Tables, Graphs, and Equations
+
+### Section Overview:
+In this section, students will connect the concept of proportionality to unit rates, tables, and graphs.
+Students will first use unit rates to check for proportionality. They will then move into graphs and tables to
+determine whether paired quantities are proportional. They will learn that proportional quantities always
+make a straight line beginning at the origin when graphed, and that tables showing proportional quantities
+will give a constant unit rate upon division of every pair of quantities. They will write equations to find
+missing quantities, using the unit rate as the constant of proportionality. Throughout the section, there will
+be problems with relationships that are not proportional to be used as contrast to those that are. By the
+end of the section, students should be able to go from one representation to another representation (graph
+to equation, equation to table, graph to table, etc.) and should be able to state what points on the graphs,
+solutions to the equation, or entries on the table mean in the context of the problem. They will also
+continue to explore the relationship between part:part and part: whole relationships (5.2B) with ideas
+solidifying in Section 5.3.
+
+### Concepts and Skills to be Mastered (from Standards):
+1. Extend the concept of a unit rate to include ratios of fractions.
+2. Compute a unit rate, involving quantities measured in like or different units.
+3. Verify that two quantities expressed in a table or in a graph are in a proportional relationship.
+4. Determine a unit rate from a table, graph, equation, diagram or verbal description and relate it to the
+constant of proportionality.
+5. Write an equation for a proportional relationship in the form y = kx.
+6. Explain the meaning of the point (x, y) in the context of a proportional relationship.
+7. Explain the significance of (0,0) and (1, r) in a graph of a proportional relationship, where r is the unit
+rate.
+
+### Example Problems
+1. Draw bar models to determine if the two ratios are proportional.
+    a. In one box of cookies, the ratio of chocolate chip cookies to oatmeal cookies is 3 to 8. A bigger box
+    of cookies has a ratio of 12 chocolate chip to 32 oatmeal cookies.
+    b. The ratio of cats to total pets in the first pet store is 3 to 9. In the second pet store the ratio of cats
+    to total pets is 6 to 18.
+2. Complete the graph for the table below. Be sure to label your axes with words. Draw a straight line
+through the points if you can.
+# of MP3s 2     3       4       5       6       10
+Price ($) 1.00  1.50    1.75    1.90    2.00    5.00
+    a. Are number of MP3s and price
+    proportionally related in this situation?
+    How do you know?
+
+    b. State the independent and dependent
+    variables.
+
+    c. Examine the graph. What
+    conclusions can you make?
+3. Make a conjecture about how to determine if a graph of values represents a proportional relationship.

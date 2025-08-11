@@ -1,0 +1,26 @@
+## Section 1.2: Understand/Apply Equivalence in Rational Number Forms. Convert Between Forms (Fraction, Decimal, Percent)
+
+### Section Overview:
+In this section students solidify and practice rational number sense through the careful review of fractions, decimals and percents. The two key objectives of this section are a) students should be confidently able to articulate with words, models and symbols the relationship among equivalent fractions, decimals, and percent and b) students should understand and use models to find portions of different wholes.
+
+The concept of equivalent fractions naturally leads students to the issues of ordering and estimation. Ordering positive and negative fractions will be connected to the number line. It is important that students develop estimation skills in conjunction with both ordering and operating on positive and negative rational numbers.
+
+Lastly, students look at percent as being a fraction with a denominator of 100. Percent and fraction contexts in this section should be approached intuitively with models. In 1.3 students will begin to transition to writing numeric expressions.
+
+### Concepts and Skills to be Mastered (from standards)
+1. Express probability using appropriate fractions, ratios, decimals, and percents.
+2. Find the percent of a quantity using a model.
+3. Express and convert between rational numbers in different forms.
+4. Express fractions, decimals and percents as related to area models.
+5. Draw models to show equivalence among fractions and rational numbers.
+6. Solve problems with rational numbers using models.
+7. Solve problems with rational numbers using estimation.
+8. Compare rational numbers in different forms.
+
+### Example Problems
+1. Four people found the distance in kilometers across Nowhere Canyon using different methods. Their results are: Joana: 5.25, Laurie: 23/4, Rachel: 5.5, Jett: 5 1/2. Plot and label them on the number line.
+2. Order the fractions from least to greatest: 1/2, 1/9, 5/8, 5/6, 7/8, 1/5, 5/9, 3/8, 1/7
+3. It takes Allen three-fifths of an hour to complete his math homework, five-sixths of an hour to complete his reading homework, and two-thirds of an hour to complete his science homework. Order the subjects by the time from least to greatest. How many hours did Allen spend total on his homework?
+4. Find 60% of 180.
+5. What percent of 80 is 60?
+6. 12 is 10 percent of what number?

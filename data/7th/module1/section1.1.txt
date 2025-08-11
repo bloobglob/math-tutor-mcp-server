@@ -1,0 +1,33 @@
+## Section 1.1: Investigate Chance Processes. Develop/Use Probability Models
+
+### Section Overview:
+This is students’ first formal introduction to probability. In this section students will study chance
+processes, which concern experiments or situations where they know which outcomes are possible, but
+they do not know precisely which outcome will occur at a given time. They will look at probabilities as
+ratios expressed as fractions, decimals, or percents (part:whole). Probabilities will be determined by
+considering the results or outcomes of experiments. They will learn that the set of all possible outcomes
+for an experiment is a sample space. They will recognize that the probability of any single event can be
+expressed in terms of impossible, unlikely, equally likely, likely, certain, or as a number between 0 and 1,
+inclusive. Students will focus on two concepts in probability of an event: experimental and theoretical.
+They will understand the commonalities and differences between experimental and theoretical probability
+in given situations.
+
+### Concepts and Skills to be Mastered (from standards)
+1. Understand and apply likelihood of a chance event as between 0 and 1.
+2. Approximate probability by collecting data on a chance process (experimental probability).
+3. Calculate theoretical probabilities on a chance process.
+4. Given the probabilities (different scenarios in a chance process), predict the approximate frequencies
+for those scenarios (if experimenting on a chance process).
+5. Use appropriate fractions, decimals and percents to express the probabilities.
+
+### Example Problems
+1. On the Bolts football team, one-fourth of the players walk to practice and 30% are driven by their
+parents. The remaining players go by bus. If there are 60 players on the team who go to practice, how
+many players take the bus?
+2. Which of the following is NOT equivalent to the other three? Explain.
+A. 0.15 B. 15/20 C. 75% D. 0.75
+3. Explain the formulas for both Theoretical and Experimental Probabilities in words. How would you
+explain the difference in the denominators?
+4. At the sandwich shop you can choose from three types of bread, two types of meat, 3 types
+of cheese. You must pick only one of each. How many different types of sandwiches can
+be made?

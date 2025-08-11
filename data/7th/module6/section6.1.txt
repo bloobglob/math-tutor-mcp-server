@@ -1,0 +1,35 @@
+## Section 6.1: Constructing Triangles from Given Conditions
+### Section Overview:
+In this section, students discover the conditions that must be met to construct a triangle. By constructing
+triangles students will note that the sum of the two shorter lengths of a triangle must always be greater than
+the longest side of the triangle, and that the sum of the angles of a triangle is always 180 degrees. They then
+explore the conditions for creating a unique triangle: three side lengths, two sides lengths and the included
+angle, and two angles and a side length—whether or not the side is included. This approach of explore, draw
+conclusions, and then seek the logical structure of those conclusions is integral to the new core. It is also the
+way science is done. In later grades, students will more formally understand concepts developed here.
+In 7th grade, students are to learn about “scaling.” The concepts in this section are foundational to scaling and
+lead to proportional relations of objects that have the same “shape” in Section 6.2. In 8th grade, students will
+extend the idea of scaling to dilation and then in high school to similarity. In this section emphasis should be
+made on conditions necessary to create triangles and that conditions are related to knowing sides and angles.
+
+### Concepts and Skills to be Mastered (from standards)
+Geometry Standard 2: Draw (freehand, with ruler and protractor, and with technology) geometric shapes with
+given conditions. Focus on constructing triangles from three measures of angles or sides, noticing when the
+conditions determine a unique triangle, more than one triangle, or no triangle. 7.G.2
+Geometry Standard 6: Solve real-world and mathematical problems involving area, volume and surface area
+of two- and three-dimensional objects composed of triangles, quadrilaterals, polygons, cubes, and right
+prisms. 7.G.6
+1. Given specific criteria, construct a triangle and know if it’s a unique triangle.
+2. Understand and explain the side length requirements of a triangle.
+3. Understand and explain the angle and side requirements for constructing a unique triangle.
+4. Know the angle measure requirements of a triangle. (Triangle Angle Sum Theorem)
+
+### Example Problems
+1. Derive a formula for the interior angle sum of a polygon with n sides.
+2. Make a conjecture (rule). Based on your observations, write a conjecture about the relationship between
+the sum of the measures of the shortest and medium sides of a triangle and the measure of the longest
+side of the triangle. Provide a reason for your conjecture.
+3. If two side lengths of a triangle are 5 cm and 7 cm, what is the largest possible whole number length of
+the third side? Justify your answer.
+4. Describe the relationship between the location of the shortest side and the location of the smallest angle of
+the three triangles above.

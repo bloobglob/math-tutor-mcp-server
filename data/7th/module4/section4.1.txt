@@ -1,0 +1,23 @@
+## Section 4.1: Solve Multi-Step Equations
+
+### Section Overview:
+This section begins by reviewing and modeling one-step and two-step equations with integers. Students then learn to apply these skills of modeling and solving to equations that involve the distributive property and combining like terms. Students learn to extend these skills to solve equations with rational numbers. Next, students will write and solve word problems that lead to equations like those that they have learned to solve. Students will continue to practice all the skills that they have learned, including critiquing another's work to find the error.
+
+### Concepts and Skills to be Mastered (from standards)
+1. Solve multi-step equations fluently including those involving calculations with positive and negative rational numbers in a variety of forms.
+2. Convert between forms of a rational number to solve equations.
+3. Use variables to create equations that model word problems.
+4. Solve word problems leading to linear equations.
+5. Connect arithmetic solution processes that do not use variables to algebraic solution processes that use variables in equations.
+6. Critique the reasoning of others.
+
+### Example Problems
+1. x − 1 = 6
+2. 8 = 7 + m
+3. 6 = 3x
+4. 5x + 9 = −26
+5. Brielle has 5 more cats than Annie. If Brielle has 8 cats, how many does Annie have?
+6. Jim bought a tie for x dollars and a jacket for $37.50. Jack bought the same items as Jim. Together, they spent $80. How much did each tie cost?
+7. Separate 46 inch ribbon into two parts so that one part is one more than twice as much as the first part. Find each part.
+8. 3x = −2x + 10
+

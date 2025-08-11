@@ -1,0 +1,48 @@
+## Section 5.3: Analyze and Use Proportional Relationships and Models to Solve Real-World and Mathematical Problems.
+
+### Section Overview:
+In this section, the concepts studied in Sections 5.1 - 5.2 will be applied to solve problems. The formal
+definition of a proportion will be introduced, and students will set up and solve proportions for real-world
+problems, including problems with percentages of increase and decrease. It’s likely, especially for
+advanced classes, that before the topic is formally introduced students will set up proportions and solve
+them (a) using properties of equality, (b) by finding a common denominator on both sides, or even (c) by
+cross multiplying, if they have seen this in previous years or at home. Any method that can be justified
+using proportional reasoning can lead to a meaningful discussion. Students should be encouraged to
+justify their answer with other representations (graph, bar model, table, or unit rates) to bring out the
+possible misconception that proportions can be solved with an additive rather than a multiplicative
+strategy. (e.g ; but )
+In addition to solving proportions algebraically, students will examine part-to-whole ratios and compare
+them to the part-to-part ratios they have been using in the first three sections of the module. Odds and
+probability will be used together to give students practice in fluently switching between part-to-part and
+part-to-whole ratios and solving for missing quantities using either type of ratio.
+
+### Concepts and Skills to be Mastered (from Standards):
+1. Extend the concept of a unit rate to include ratios of fractions.
+2. Compute a unit rate, involving quantities measured in like or different units.
+3. Verify that two quantities expressed in a table or in a graph are in a proportional relationship.
+4. Determine a unit rate from a table, graph, equation, diagram or verbal description and relate it to the
+constant of proportionality.
+5. Write an equation for a proportional relationship in the form y = kx.
+6. Explain the meaning of the point (x, y) in the context of a proportional relationship.
+7. Explain the significance of (0,0) and (1, r) in a graph of a proportional relationship, where r is the unit
+rate.
+8. Solve multistep problems involving percent using proportional reasoning.
+9. Find the percent of a number and extend the concept to solving real life percent applications.
+10. Calculate percent, percent increase, decrease, and error.
+
+11. Solve multistep problems involving percent using proportional reasoning.
+12. Find the percent of a number and extend the concept to solving real life percent applications.
+
+### Example Problems:
+1. Solve each proportion using cross-products. Be sure to show all work.
+a. 26/(x+4)=5/3
+b. (n-7)/18=5/9
+2. Define a variable, write the units of your comparisons as a word ratio, then write a proportion equation
+and solve. Answer the following in a complete sentence. Edgar and Raul participated in a team bike-athon. Edgar rode 6 out of every 7 miles in the course. Raul
+covered the rest of the mileage. If Edgar rode 48 miles, how many miles did Raul ride?
+3. The odds of selecting a green marble from a given bag are 5: 18. How many times would I need to
+randomly select marbles in order to pull out a green marble 75 times?
+4. A publisher receives $12.60 from each book sold. The remaining portion of the $15 selling price
+goes to the author. What royalty rate does the author earn?
+5. A survey found that 1950 people out of 3000 people polled read at least one newspaper per day. What
+percent of the people polled do not read at least one newspaper per day?

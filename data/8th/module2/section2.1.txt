@@ -1,0 +1,30 @@
+## Section 2.1: Analyze Linear Relationships, Patterns and Contexts
+
+### Section Overview:
+This section begins by reviewing proportional relationships that were studied in 6th and 7th grades. By investigating several contexts, students study the constant of proportionality or unit rate in tables, graphs, and equations. They recognize that a proportional relationship can be represented with a line that goes through the origin and compare proportional relationships represented in different ways. Students apply their knowledge of proportional to non-proportional relationships, understanding that all linear relationships have a rate of change. Students examine linear patterns and write rules to represent them. Students use linear patterns to identify the rate of change and initial value (y-intercept) in different representations (table of values, graph, equation, and geometric model.) Students begin to understand how linear functions change.
+
+### Concepts and Skills to Master:
+By the end of this section, students should be able to:
+• Graph and write equations for a proportional relationship and identify the constant of proportionality or unit rate given a table, graph, equation, or context.
+• Compare proportional relationships represented in different ways.
+• Understand how non-proportional relationships differ from proportional relationships.
+• Understand that all linear relationships have a rate of change.
+• Write rules for linear patterns and connect the rules to the pattern (geometric model.)
+• Understand how rate of change affects linear relationships.
+• Identify the rate of change and y-intercept of a linear relationship in a table of values, graph, equation, context, and geometric model.
+
+### Example Problems
+
+1. Carmen is making homemade root beer for an upcoming charity fundraiser. The number of pounds of dry ice to the number of ounces of root beer extract (flavoring) is proportionally related. If Carmen uses 12 pounds of dry ice, she will need to use 8 ounces of root beer extract.
+   a. Write a ratio that relates pounds of dry ice to ounces of root beer extract.
+   b. A unit rate is a comparison of two different quantities, in which one of the quantities is 1. State the unit rate for this situation and what it represents in the context.
+
+2. Last Saturday at Sunnyside Park, there was a hot dog eating contest that lasted 5 minutes. Landon participated in the contest and ate 5 hot dogs every 2 minutes. Nate also participated, and before the competition even began, Nate ate 4 hot dogs (he was really hungry!). Once the competition started, Nate ate 3 hot dogs every 2 minutes.
+   a. Label each axis and the graph to illustrate which line represents Landon and which line represents Nate.
+   b. State the rate of change for each boy. Show each rate of change on the graphs.
+
+3. Use the context to complete the following: You and your friends go to the state fair. It costs $6 to get into the fair, and $2 each time you go on a ride. Consider the relationship between number of rides and total cost.
+   a. State the independent variable.
+   b. State the dependent variable.
+   c. Complete the table.
+   d. State the rate of change. What does it represent in the context?

@@ -1,0 +1,29 @@
+## Section 4.2: Solve and Graph Inequalities
+
+### Section Overview:
+Students begin this section by reviewing how to write inequalities and graph them on a number line from 6th grade. They then move to solving and graphing one-step and multi-step inequalities using their knowledge of solving one-step and multi-step equations. The section ends with students writing and solving one- and multi-step contextual inequality problems.
+
+Throughout this section it is important that students understand the similarities and differences between finding the solution to an equation and finding solution(s) to an inequality. Students should also understand the relationship of each to real life.
+
+Language may be particularly difficult for some students in this section. Phrases like "less than" or "greater than" in the previous section indicated an operation (e.g. subtract or add), in this section they may indicate < or >. Help students to look at contexts holistically. Making sense of problem situations is critical with writing equations and/or expressions. Students should see that "is less than" is an inequality and "less than" is subtraction. Also help students predict the type of answers they will be getting as a way of interpreting how to write the context in algebraic form.
+
+This section will have some review of solving multi-step equations, both with and without models, within a context. Students can build on this understanding to work with more complex situations. Activities in this section have students working in two "different directions"—in some sections students will be given a context and asked to find relationships and solutions, while in other sections, students will be given relationships and asked to write contexts. The goal is to help students understand the structure of context in relationship to algebraic representations.
+
+### Concepts and Skills to be Mastered
+1. Recognize and explain the meaning of a given expression or equation and its component parts.
+2. Solve multi-step context problems involving calculations with positive and negative rational numbers in a variety of forms.
+3. Use variables to create equations that model word problems.
+4. Solve word problems leading to linear equations.
+5. Use variables to create inequalities that model word problems.
+6. Solve word problems leading to linear inequalities.
+7. Use symbols of inequality to express situations in which solutions are greater than or less than a given value.
+
+### Example Problems
+1. A school bus can seat at most 48 students.
+2. In many states you must be at least 16 years old to obtain a driver's license.
+3. x + 8 ≥ 18
+4. −2 + x ≤ −16
+5. 5𝑛 − 75 ≥ −135
+6. 5x − 9 < 3 − x
+7. A painting company charges a $250 base rate plus $16 per hour. Another painting company charges a $210 base rate plus $18 per hour. How long is a job for which the two company's costs are the same?
+

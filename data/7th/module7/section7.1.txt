@@ -1,0 +1,30 @@
+## Section 7.1: Measurement in Two Dimensions
+
+### Section Overview:
+This section involves a review and extension of previously learned skills (from 6th grade) involving perimeter and area of plane figures and volumes of right solids. The section begins with a review of perimeter and area and then moves to finding area of irregular figures, first with numeric side lengths and then with variable expression side length. Additionally, students continue work on skills developed earlier in the year including percent increase/decrease, scale factor for perimeter and area, and simplifying algebraic expressions. The end of the section focuses on all these skill in various real-world and mathematical contexts.
+
+### Concepts and Skills to be Mastered (from standards)
+1. Know the formula for the area and circumference of a circle and use them to solve problems.
+2. Give an informal derivation of the relationship between area and circumference of a circle.
+3. Solve real-world and mathematical problems involving area, volume, and surface are of two- and three-dimensional objects composed of triangles, quadrilaterals, polygons, cubes, and right prisms.
+
+### Example Problems
+1. Rectangle Riddle: Can you figure out the dimensions for each rectangle? Use the clues below to draw the four different rectangles described.
+• Rectangle A has a perimeter equal to that of Rectangle B.
+• Rectangle A is a square.
+• Rectangle B has an area of 24 square units. It is as close to a square as possible for that area if the side lengths are whole numbers.
+• Rectangle C has a perimeter equal to the measure of the area of Rectangle B. Rectangles C's length is 3 times the width.
+• Rectangle D has two different odd integers as length and width; each is 1 unit greater than the length and width of Rectangle B.
+
+2. Kara and Sharice are in a quilting competition. Both are stitching rectangular-shaped quilts. So far Kara's has an area of 2,278 square inches with a length of 44 inches. Sharice's quilt has an area of 2,276 square inches with a length of 47 inches. Whose quilt is wider? By approximately how many inches is it wider? Round to the nearest hundredth.
+
+3. A circular swimming pool with a diameter of 32 feet is located exactly in the middle of a 40 ft × 40 ft square lot. For safety reasons the lot needs to have an 8 ft fence on the perimeter of the entire lot.
+a. How long will the fence need to be?
+b. If the fence was around only the circular pool, how long would the fence be?
+c. Explain how much longer a fence around the whole yard is than a fence only around the pool using percent increase.
+
+4. Hugo is making the tile pattern shown. The tile is a square with four circles of the same size inside. He will paint the circles blue and the remaining part of the tile yellow.
+a. Find the area of the portion of the tile that will be yellow.
+b. Find the area of the diamond-shaped piece in the middle of the tile.
+c. What portion (percent) of the tile will be yellow?
+

@@ -1,0 +1,19 @@
+## Section 3.1: Graphing and Writing Linear Equations
+
+### Section Overview:
+In Module 2, students developed a strong understanding of the parameters m and b in slope-intercept form of a linear equation. In this section, students transition to the procedural work of writing and graphing linear equations from any set of givens. Students apply their knowledge to writing linear equations in slope-intercept form and standard form that model real world situations.
+
+### Concepts and Skills to Master:
+By the end of this section, students should be able to:
+• Compare and analyze slope-intercept form, y = mx + b, and standard form, Ax + By = C
+• Graph a linear equation in the form y = mx + b given the slope and y-intercept or context of a real world situation.
+• Graph a linear equation in the form Ax + By = C given the x- and y-intercepts or context of a real world situation.
+
+### Example Problems
+1. Define slope-intercept form. Draw a graph and state the slope and y-intercept of your graph.
+
+2. A Basset Hound weighs 100 pounds and is on a special diet to lose 4 pounds per month. If x represents the number of months passed and y represents the weight of the dog, write an equation that represents this situation.
+
+3. Your cell phone plan has a flat rate of $30 each month. For each text you send, the cost is $0.20. If x represents the number of texts you send and y represents your total monthly bill, write an equation that represents this situation.
+
+4. Plot the points (6,3) and (-9,-7) on the coordinate plane and connect the points to form a line. Draw a right triangle on the line to find the slope. State the rise and run. Use the points (6,3) and (-9,-7) and the slope formula to verify the slope of the line.

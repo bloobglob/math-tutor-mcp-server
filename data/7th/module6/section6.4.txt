@@ -1,0 +1,23 @@
+## Section 6.4: Angle Relationships
+### Section Overview:
+In this sections students will learn and begin to apply angle relationships for vertical angles, complementary angles and supplementary angles. They will practice the skills learned in this section further when they write equations involving angles in the future. At the end of this section there is a review activity to help students tie concepts together.
+
+### Concepts and Skills to be Mastered (from standards)
+Geometry Standard 5: Use facts about supplementary, complementary, vertical, and adjacent angles in a multi-step problem to write and solve simple equations for an unknown angle in a figure.
+Geometry Standard 6: Solve real-world and mathematical problems involving area, volume and surface area of two- and three-dimensional objects composed of triangles, quadrilaterals, polygons, cubes, and right prisms. 7.G.6
+1. Identify vertical, complementary and supplementary angles.
+2. Find the measures of angles that are vertical, complementary or supplementary to a known angle.
+3. Apply angle relationships to find missing angle measures. Given angle measures, determine the angle relationship.
+
+### Example Problems
+1. Two angles are complementary. One angle is twice as large as the other. Find the measure of each angle.
+
+2. There are three angles whose sum is 180°. The second angle is three times the first angle. The third angle is five times the first angle. Find the measure of each angle.
+
+3. The measure of one angle is 8° less than the measure of the other. If the two angles are complementary, what are their measures?
+
+4. The measure of one angle is 1/3 the measure of the other. If two angles are supplementary, what are their measures?
+
+5. If two vertical angles are complementary, what is the measure of each angle?
+
+6. Two angles are supplementary, and the measure of one angle is 8 times the measure of the other. What are the measures of the two angles?

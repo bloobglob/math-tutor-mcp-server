@@ -1,0 +1,22 @@
+## Section 8.2: Draw Informal Comparative Inferences about Two Populations
+
+### Section Overview:
+In this section students calculate measures of center and spread from data sets, and then use those measures to make comparisons between populations and conclusions about differences between the populations.
+
+### Concepts and Skills to be Mastered:
+1. Make comparisons of data distributions by estimating the center and spread from a visual inspection of data plots.
+2. Compare two populations by calculating and comparing numerical measures of center and spread.
+3. Calculate the mean absolute deviation (MAD) as a measure of spread of a population. Measure the distance between the centers of two populations of similar variability using the MAD as the unit of measure.
+
+### Example Problems
+1. Michael Jordan was a professional basketball player in the NBA for 15 years. Compare the data in the tables without doing any calculations (only using estimates). What interesting features do you see within each data set and between the two data sets?
+Chicago Bulls 1997/98: Michael Jordan 2357, Toni Kukoc 984, Scottie Pippen 841, Ron Harper 764, Luc Longley 663, Scott Burrell 416, Steve Kerr 376, Dennis Rodman 375, Randy Brown 288, Jud Buechler 198, Bill Wennington 167
+Toronto Raptors 1997/98: Kevin Willis 1305, Doug Christie 1287, John Wallace 1147, Chauncey Billups 893, Charles Oakley 711, Dee Brown 658, Gary Trent 630, Reggie Slater 625, Tracy McGrady 451, Oliver Miller 401, Alvin Williams 324, John Thomas 151
+
+2. The table below shows the 6 fastest birds in the world and their maximum recorded speeds.
+Animal Maximum Recorded Speed (in mph): Peregrine Falcon 242, White-throated Needletail 105, Eurasion Hobby 100, Frigatebird 95, Anna's Hummingbird 61, Ostrich 60
+To find the MAD, first find the mean (average) speed of the birds by adding all of the data and dividing the sum by the number of values.
+
+3. Ralph measures the mass and volume of a piece of copper in the lab and uses his data to calculate the density of the metal. According to his results, the copper has a density of 8.37 g/cm³. Ralph is curious about the accuracy of his results. He consults a reference table and finds that the accepted value for the density of copper is 8.92 g/cm³. What is Ralph's percent error?
+
+4. On your dot plot, circle the mean for each data set. What is the difference between the mean for a small bag of M&M's and the mean for a large bag of M&M's?

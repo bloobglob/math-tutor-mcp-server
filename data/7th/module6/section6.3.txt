@@ -1,0 +1,24 @@
+## Section 6.3: Solving Problems with Circles
+### Section Overview:
+In this section circumference and area of a circle will be explored from the perspective of scaling. Students will start by measuring the diameter and circumference of various circles and noting that the ratio of the circumference to the radius is constant (2π). This should lead to discussions about all circles being scaled versions of each other. Next students will "develop" an algorithm for finding the area of a circle using strategies used throughout mathematical history. In these explorations, students should discuss two ideas: 1) cutting up a figure and rearranging the pieces so as to preserve area, and 2) creating a rectangle is a convenient way to find area. Students will connect the formula for finding the area of a circle (πr²) to finding the area of a rectangle/parallelogram where the base is ½ the circumference of the circle and the height is the radius (A = Cr/2.)
+
+Students end the section by applying what they have learned to problem situations. In the future, students will use ideas of how circumference and area are connected to write equations to solve problems. In this section, students should solve problems using informal strategies to solidify their understanding.
+
+### Concepts and Skills to be Mastered (from standards)
+Geometry Standard 4: Know the formulas for the area and circumference of a circle and use them to solve problems; give an informal derivation of the relationship between the circumference and area of a circle.
+Geometry Standard 6: Solve real-world and mathematical problems involving area, volume and surface area of two- and three-dimensional objects composed of triangles, quadrilaterals, polygons, cubes, and right prisms. 7.G.6
+1. Explain the relationship between diameter of a circle and its circumference and area.
+2. Explain the algorithm for finding circumference or area of a circle.
+3. Find the circumference or area of any circle given the diameter or radius; or given circumference or area determine the diameter or radius.
+
+### Example Problems
+1. If you made a huge circle the size of a city and measured the diameter and circumference, would the ratio of circumference to diameter, C/d, be consistent with the other ratios in the third column of the table? Justify your answer using what you learned from the previous section.
+
+2. Randy's circular garden has a radius of 1.5 feet. He wants to enclose the garden with edging that costs $0.75 per foot. About how much will the edging cost to surround the entire garden? Explain.
+
+3. When a unicyclist pedals once, the wheel makes one full revolution, and the unicycle moves forward the same distance along the ground as the distance around the edge of the wheel. If Daniel is riding a unicycle with a diameter of 20 inches, how many times, to the nearest whole number, will he have to pedal to cover a distance of 50 feet? Show all your work. Note: it may help to sketch and label a diagram.
+
+4. An earthquake was felt by everyone within 50 kilometers of the epicenter in every direction. a. Sketch a diagram of the situation. b. Calculate the size of the area that felt the earthquake.
+
+5. A circular pond 12 m in diameter is surrounded by brick walk 3m wide. Find the area of the pond and find the area of the walk. Round to the nearest hundredth. (Hint: Draw a picture.)
+

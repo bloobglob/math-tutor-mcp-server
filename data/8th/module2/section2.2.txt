@@ -1,0 +1,33 @@
+## Section 2.2: Investigate the Slope of a Line
+
+### Section Overview:
+This section uses proportionality to launch an investigation of slope. Transformations are integrated into the study of slope by looking at the proportionality exhibited by dilations. Students dilate similar triangles on lines to show that a dilation produces triangles that have proportional parts and thus the slope is the same between any two distinct points on a non-vertical line. Students apply their investigation of slope to derive the slope formula and the equations y = mx and y = mx + b. Students use proportionality produced by a dilation to do this derivation.
+
+### Concepts and Skills to Master:
+By the end of this section, students should be able to:
+• Show that the slope of a line can be calculated as rise/run for any two points on a line.
+• Explain why the slope is the same between any two distinct points on a non-vertical line.
+• Find the slope of a line from a graph, set of points, or table.
+• Given a context, find slope from various starting points (2 points, table, line, equation).
+• Recognize that m in y = mx and y = mx + b represents the rate of change or slope of a line. Understand that b is where the line crosses the y-axis or is the y-intercept.
+• Derive the equations y = mx and y = mx + b using dilations and proportionality.
+
+### Example Problems
+
+1. Simplify the complex fraction by multiplying the numerator by the reciprocal of the denominator. Show all of your work.
+
+2. Graph and connect the ordered pairs A(0,0), B(3,0) and C(3, 4) on the coordinate plane. This original object is called the pre-image.
+   a. Dilate each ordered pair by a scale factor of two from the center of dilation (the origin). Plot and connect the new ordered pairs in a different color on the coordinate plane.
+   b. Complete the ratios below that compare the corresponding lengths of the image A'B'C' to the pre-image, ABC. What do you notice?
+
+3. Points: (4, 3) and (0, 1)
+   a. What is the rise between points (0,1) and (4,3)?
+   b. How can the y-values from both ordered pairs be used to find the rise?
+   c. What is the run between the points (0,1) and (4,3)?
+   d. How can the x-values from both ordered pairs be used to find the run?
+   e. Using the ratio rise/run, find the slope of the line.
+
+4. Use the coordinate plane to complete the following.
+   a. Graph a line on the coordinate plane that goes through the origin and has a slope of m (where change in y-values is m and change in x-values is 1). Label the rise and run on your graph with a right triangle.
+   b. Does this line describe a proportional relationship?
+   c. Choose any point (x,y) on your graph and draw a right triangle that describes the rise and run.

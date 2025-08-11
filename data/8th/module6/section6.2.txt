@@ -1,0 +1,21 @@
+## Section 6.2: Exploring the Pythagorean Theorem and Solving Equations Using Square, Cube and nth Roots
+
+### Section Overview:
+Students prove the Pythagorean Theorem for any right triangle with side lengths a, b, and c where a and b are the legs of the right triangle and c is the hypotenuse. Students apply the Pythagorean Theorem to real-world situations. They discover how to find the distance between any two given points by discovering the distance formula through the Pythagorean Theorem. Students use cubes and volume to gain an understanding of what is meant by the cube root of a number. Students then apply their knowledge of square and cube roots to solve simple square and cubic equations. Students understand that taking the square root of a number is the inverse of squaring a number and taking the cube root is the inverse of cubing a number. Students express answers in simplest radical form.
+
+### Concepts and Skills to be Mastered:
+By the end of this section, students should be able to:
+- Understand the Pythagorean Theorem and apply it to real world situations.
+- Discover the distance formula and calculate the distance between any two given points.
+- Understand the relationship between the side length of a cube and its volume.
+- Simplify 𝑛𝑡ℎ roots which are rational and irrational, understanding when the answer yields a “not real” solution.
+- Solve simple quadratic equations, cubic equations, and equations involving 𝑛𝑡ℎ roots, understanding when the answer yields a “not real” solution.
+- Understand how to simplify expressions involving square roots (add/subtract/multiply/divide, distributive property, and collecting “like terms”.)
+
+### Example Problems
+1. The equation 𝑑 = 3.532√ℎ gives the distance in kilometers visible from a height h in meters. How far can you see from 100 meters? From 555 meters?
+2. Determine if the side lengths 61, 11, and 60 form a right triangle using the converse of the Pythagorean Theorem.
+3. Simplify √128, √0.0025𝑎³𝑏, and √75⁄4.
+4. Find the distance between A(3, 5) and B(6, 9) using the distance formula.
+5. Solve 𝑥² = -64 and 𝑥³ = 64, explaining why one has no real solution and one does.
+6. From a triangle with area 40, construct a square using the Pythagorean Theorem.

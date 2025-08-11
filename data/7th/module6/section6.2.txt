@@ -1,0 +1,56 @@
+## Section 6.2: Scale Drawings
+
+### Section Overview:
+The central idea of this section is scale and its relationship to ratio and proportion. Students will use ideas
+about ratio, proportion, and scale to: (a) change the size of an image and (b) determine if two images are
+scaled versions of each other.
+By the end of this section, students should understand that we could change the scale of an object to suit our
+needs. For example, we can make a map where 1 inch equals one mile; key out a floor plan where 2 feet
+equals 1.4 cm from a diagram; or draw a large version of an ant where 3 centimeters equals 1 mm. In each of
+these situations, the “shape characteristics” of the object remain the same, what has changed is size. Objects
+can be scaled up or scaled down. Through scaling exercises, students will see that all dimensions of a given
+object are changed by the same factor in the scaled representation and this factor is called the scale factor.
+Here students continue to develop an intuitive understanding of “the same shape.” Throughout this section
+students should clearly distinguish between two objects that are the same shape and dimension and objects
+that are scaled versions of each other. In particular, students will come to understand that two polygonal
+figures that are scaled versions of each other have equal angles and corresponding sides in a ratio of a:b,
+where a ≠ b. Students should also distinguish between saying the ratio of object A to object B is a:b while the
+scale factor from A to B is b/a. This idea links ratio and proportional thinking to scaling.
+Students will learn to find the scale factor from one object to the other from diagrams, values and/or proportion
+information. Students should be able to go fluidly from a smaller object to a larger scaled version, and from a
+larger object to a smaller scaled version given either or both the proportional constant and/or the scale factor.
+In this section and through the module, abstract procedures will be emphasized for finding scale factors and/or
+missing lengths; however, some students may prefer to continue to use bar models. Bar model strategies will
+become increasingly more cumbersome, so it will be important to help students transition to more efficient
+procedures. This can be done by helping students connect concrete models (i.e. bar/tape models) to the
+algorithmic procedure as was done in Module 4.
+
+### Concepts and Skills to be Mastered (from standards):
+Geometry Standard 1: Solve problems involving scale drawings of geometric figures, including computing
+actual lengths and areas from a scale drawing, and reproducing a scale drawing at a different scale. 7.G.1
+Geometry Standard 6: Solve real-world and mathematical problems involving area, volume and surface area
+of two- and three-dimensional objects composed of triangles, quadrilaterals, polygons, cubes, and right
+prisms. 7.G.6
+1. Draw a scaled version of a triangle, other polygon, or object given lengths.
+2. Find a measure of a scaled object given the scale factor and measures from the original.
+3. Find the scale factor between two objects that are the same shape but different sizes/proportional.
+4. Use proportional reasoning in explaining and finding missing sides of objects that are the same shape but
+different sizes.
+5. Find the scale factors for perimeter and area for proportional objects.
+
+### Example Problems
+1. Sixty meters of fencing enclose a square corral. What is the area of the corral?
+2. A model of an MC130E airplane has a scale factor of 1/100.
+    a. If the model plane is one foot long, how long is the actual plane?
+    b. If the actual wingspan is 1600 inches, how long is the model’s wingspan?
+    c. If the width of each of the model’s propellers is 1.62 inches, how wide is an actual propeller?
+3. Allen made a scale drawing of his rectangular classroom. He used the scale 1/4 inch = 4 feet. His actual
+classroom has dimensions of 32 feet by 28 feet.
+a. What are the dimensions of his scale drawing of the classroom?
+
+b. What is the scale factor of classroom length : drawing length?
+
+c. What is the scale factor of classroom area : drawing area?
+
+d. What is the mathematical relationship between the scale factor for lengths and the scale factor for
+areas?

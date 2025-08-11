@@ -1,0 +1,18 @@
+## Section 1.3: Solve Percent Problems Including Discounts, Interest, Taxes, Tips, and Percent Increase or Decrease
+
+### Section Overview:
+In this section, students continue to solve contextual problems with fractions, decimals and percent but begin to transition from relying solely on models to writing numeric expressions. In future modules, students will extend their understanding by writing equations and proportions using variables.
+
+### Concepts and Skills to be Mastered (from standards)
+1. Use models to solve problems involving percent and fractions.
+2. Solve percent problems involving discounts, interest, taxes, tips, etc.
+3. Solve percent problems involving percent increase and decrease.
+4. Develop algebraic expressions and equations from percent and fraction models.
+
+### Example Problems
+1. George has a piece of rope that's 12 feet long. He cuts off 25% of the rope. How long is the rope now?
+2. A big screen television costs $1200 wholesale. If the mark-up on the television is 20%, what is the new price?
+3. A pair of boots was originally priced at $200. The store put them on sale for 25% off. A month later, the boots were reduced an additional 50% off the previous sale price. What is the price now?
+4. Marie went out for dinner with her friend. The dinner cost $25. Tax is 5% and Marie wants to leave a 15% tip on the pre-tax amount. How much will Marie pay all together for dinner?
+5. If the price of a $65 purse increases 15%, what is the new price of the purse?
+6. 100 is increased by 10%. The result is decreased by 10%. Is the final result 100? Explain your reasoning.

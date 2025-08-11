@@ -1,0 +1,26 @@
+## Section 1.2: Creating and Solving Multi-Step Linear Equations with Variables on Both Sides
+
+### Section Overview:
+In this section, students solve equations with unknowns on both sides of the equal sign. Students extend their understanding of linear equations with unique solutions to linear equations with either no solution or infinitely many solutions. Students use models and skills developed and solidified in section 1.1 to analyze what it is about the structure of an equation and the solving outcome (x = a, 0 = a, or a = a where a and b are different numbers) that results in one solution, no solution, or infinitely many solutions. Students transform equations to solve for a particular unknown.
+
+### Concepts and Skills to be Mastered:
+By the end of this section, students should be able to:
+- Solve multi-step linear equations that have one solution, infinitely many solutions, or no solution.
+- Understand what it is about the structure of a linear equation that results in equations with one solution, infinitely many solutions, or no solutions.
+- Identify and provide examples of equations that have one solution, infinitely many solutions, or no solutions.
+- Transform equations to solve for a particular unknown.
+
+### Example Problems
+1. Two students, Theo and Lance, each have some chocolates. They know that they have the same number of chocolates. Theo has ten full bags of chocolates and forty-seven loose chocolates. Lance has one and a half as many full bags of chocolates as Theo, but thirty-five fewer loose chocolates than Theo.
+a. Define a variable and write two expressions, one that represents Theo's situation and one that represents Lance's situation.
+b. Use the expressions to find how many chocolates are in one full bag. Show all of your work.
+
+2. Horizon Phone Company charges $15 a month plus 10 cents per text. G-Mobile charges a flat rate of $55 per month with unlimited texting. At how many texts would the two plans cost the same? Which plan is the better deal if you send 200 texts per month?
+
+3. The enrollment in dance class is currently 80 students and is increasing at a rate of 4 students per term. The enrollment in choir is 120 students and is decreasing at a rate of 6 students per term. After how many terms will the number of students in dance equal the number of students in choir? How many students will be in each class?
+
+4. Jackson is eight years older than Sam. Three years ago, Jackson was twice as old as Sam was then. How old is Jackson now?
+
+5. The equation C = 5/9(F - 32) gives the temperature in degrees Celsius in terms of the temperature in degrees Fahrenheit.
+a. Solve the equation for F.
+b. What Fahrenheit temperature would be equivalent to a temperature of 30 degrees Celsius?

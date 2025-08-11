@@ -1,0 +1,22 @@
+## Section 8.2: Dilations, Similarity and Angles
+
+### Section Overview:
+Students apply transformations via coordinate rules to explore how figures change shape and size, formulating ideas about similarity. They study dilations using scale factors and centers of dilation, write rules for dilations, and describe dilation properties. Students determine if figures are similar by analyzing transformations. They also verify angle and triangle theorems and solve problems involving triangle angle sums, exterior angles, and angles created by transversals.
+
+### Concepts and Skills to be Mastered:
+1. Describe properties of dilated figures.
+2. Perform dilations using given scale factors and centers of dilation.
+3. Write and describe dilation rules.
+4. Identify centers of dilation using geometric properties.
+5. Determine and explain similarity using sequences of rigid motions and dilations.
+6. Know triangle angle sum is 180° and understand exterior angles.
+7. Use angle relationships from transversals and parallel lines to find unknown measures.
+8. Use the angle-angle criterion to verify triangle similarity.
+
+### Example Problems
+1. Mr. Ubedog gave his students a triangle and asked them to create one with side lengths three times longer. Nadia and Micah each drew a triangle. Who did it correctly and why?
+2. Dilate triangle ABC by a scale factor of 3 with the center at the origin. Write the coordinate rule and determine side length ratios.
+3. Draw quadrilateral ABCD and dilate with scale factor ½ from point (5,5). Compare perimeter and area before and after dilation.
+4. Examine triangle ABC and its image A′B′C′. Write a similarity statement and congruence statements for the angles.
+5. Reflect triangle ABC over the x-axis, then dilate by scale factor of 2. Determine if the resulting figure is similar to the original.
+6. Two lines are cut by a transversal. Label the angles and determine which pairs are corresponding, vertical, or alternate interior. Use rigid motions to justify angle congruence.

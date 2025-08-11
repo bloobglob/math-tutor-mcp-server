@@ -1,0 +1,23 @@
+## Section 3.2: Writing Linear Equations
+
+### Section Overview:
+Students write linear equations in slope-intercept form and standard form from any set of given information. Students investigate the effects of changes in the slope and y-intercept of a line, describing the transformation (translation, rotation, or reflection) that has taken place and writing new equations that reflect the changes in m and b. Students use transformations to discover how the slopes of parallel and perpendicular lines are related. Once students have an understanding of the relationship between the slopes of parallel and perpendicular lines, students write equations of lines that are parallel or perpendicular to a given line.
+
+### Concepts and Skills to Master:
+By the end of this section, students should be able to:
+• Write a linear equation in slope-intercept form given slope and a point, two points, or context.
+• Write a linear equation in standard form given slope and a point, two points, or context.
+• Graph linear relationships given a shift in the graph of an equation (a change in the slope or y-intercept of an equation).
+• Compare the slopes of parallel lines and explain the graph shift that creates parallel lines.
+• Compare the slopes of perpendicular lines and explain the graph shift that creates perpendicular lines.
+• Write the equation of a line parallel to a given line that passes through a given point.
+• Write the equation of a line perpendicular to a given line that passes through a given point.
+
+### Example Problems
+1. Ellie wants to find the equation of a line. She already knows that the line has a slope of 2 and passes through the point (1, 3). Explain to Eli how she can use this information and the equation y = mx + b to determine the y-intercept (value of b) and write the equation of the line.
+
+2. Kate wants to find the equation of the line that passes through the points (-2, 1) and (3, 6). Instead of graphing, Kate does the following work to find the equation. Explain each step in Kate's process.
+
+3. The graph shows a trip taken by a car, relating time (in hours) the car has driven to distance (in miles) from Salt Lake City. Label the axes on the graph. State the independent and dependent variables. Write an equation in slope-intercept form.
+
+4. On the coordinate plane, draw a rectangle with vertices at A(-5, 2), B(1, 5), C(3, 1) and D(-3, -2). Find the slope of each side of the rectangle. Evaluating the slopes, decide on a rule that describes the relationship between the slopes of parallel lines and perpendicular lines.

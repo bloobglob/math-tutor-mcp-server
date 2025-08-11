@@ -1,0 +1,25 @@
+## Section 6.1: Rational and Irrational Numbers
+
+### Section Overview:
+Students review finding the area of polygons and irregular shapes and the definition of a square. Students build squares with different areas and express the measure of the side length of these squares, gaining an understanding of what it means to take the square root of a number. Students create squares that are not perfect and realize they cannot find an exact numerical value for the side length of these squares. Students then explore different ways of representing rational numbers, starting with a review of how to change fractions into decimals and terminating decimals into fractions. Students understand that all decimals that terminate or repeat can be written as fractions, and therefore represent a rational number. Students then investigate numbers whose decimal expansion does not terminate or repeat: irrational numbers. With this knowledge, students classify numbers as rational or irrational. Students learn different methods for approximating the value of irrational numbers, then use these approximations to estimate the value of expressions containing irrational numbers. Students compare and order rational and irrational numbers.
+
+### Concepts and Skills to be Mastered:
+By the end of this section, students should be able to:
+
+- Know that real numbers that are not rational are irrational.
+- Show that rational numbers have decimal expansions that either terminate or repeat.
+- Convert a repeating decimal into a fraction and perform operations with repeating decimals.
+- Know that the square root of a non-perfect square is an irrational number.
+- Understand that the decimal expansions of irrational numbers are approximations.
+- Show the location (or approximate location) of real numbers on the real number line.
+- Approximate the value of irrational numbers, zooming in to get better and better approximations.
+- Estimate the value of expressions containing irrational numbers.
+- Compare and order rational and irrational numbers.
+
+### Example Problems
+1. Simplify √8, √18, and √32. What do you notice about their simplified forms?
+2. Convert the repeating decimal 0.74̅ into a fraction.
+3. Between which two integers does √30 lie? Which integer is it closer to?
+4. Without using the square root button, order √80, 8, 9, 8.5, and √62 from least to greatest.
+5. Which value is larger: (e + 10) or 13? (Use approximations of e)
+6. Simplify √512𝑥⁴.

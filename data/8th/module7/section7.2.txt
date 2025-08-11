@@ -1,0 +1,20 @@
+## Section 7.2: Analyze Functional and Non-Functional Relationships
+
+### Section Overview:
+In this section, students will analyze absolute value and quadratic functions. They will apply different transformations to alter functions, and understand that absolute value functions are represented by a “V” shaped graph and quadratic functions are represented by a parabola. Students will learn key features of graphs of functions and interval notation and apply this knowledge to describe functional relationships between two quantities. Students will analyze distance-time graphs.
+
+### Concepts and Skills to be Mastered:
+- Understand absolute value and quadratic functions.
+- Match the representations (table, graph, equation, and context) of linear and other nonlinear situations.
+- Identify and interpret key features of a graph that models a relationship between two quantities.
+- Sketch a graph that displays key features of a function that has been described in context.
+
+### Example Problems
+1. Use the equation y = |x| to complete the table and graph it. Explain why it forms a “V” shape.
+2. Compare the graphs y = |x| and y = (1/2)|x − 2|. Identify the transformation.
+3. The Steel Dragon roller coaster has height h = 400 − 16t². Determine when it hits the ground and graph the motion.
+4. Suppose a Toyota Prius has a braking distance d = v²/20 + 2.2v. Compute braking distance for various speeds and graph it.
+5. The number of cell phone users in Circle Town starts at 100 and increases by 75% per year. Model with y = 100(1.75)^x.
+6. Stacy walks to a bus stop, runs, misses the bus, rests, and walks home. Draw a graph of her distance from home over time.
+7. Cynthia buys coffee at 180°F that cools to room temperature (70°F). Create a story to match the graph.
+8. A toy rocket is launched from the ground. Use a graph of its height over time to write a story.

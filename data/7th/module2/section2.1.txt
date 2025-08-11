@@ -1,0 +1,29 @@
+## Section 2.1: Add, Subtract Integers, Represent Using Chip/Tile Model and Number Line Model
+
+### Section Overview:
+Section 2.1 is the first time students add and subtract integers. For this reason, it is important to begin with hands-on materials and number lines and then gradually work towards developing the rules of arithmetic with integers. The goal in this section is to build intuition and help students become comfortable with integer addition and subtraction. Students start by working with additive inverses to notice that pairs of positives and negatives result in zero. They then move to working with operations. The basic idea of addition is "joining." Students should notice that joining positive and negative numbers results in zero pairs. There are two ways to think about subtraction: a) take-away and b) distance between two numbers. Students will explore both.
+
+Adding and subtracting integers can cause students a great deal of trouble not only as it's introduced, but throughout mathematics. For example, in problems like –5 – 7 students are often unsure if they should treat the "7" as negative or positive and if they are adding or subtracting. For this reason, it is extremely helpful to have students circle the operation before they perform it and then look at the expression to interpret the values with which they are working.
+
+Many different models are available to assist students in understanding integers and operations with integers. In this section students use a chip model or tile model (similar to the Chinese models, such as black and white tiles or yellow and red tiles). Chips that students can hold are concrete representations of integers; chips (or "charges") that students draw are pictorial representations of integers; and expressions such as 3 and –3 are symbolic representations of integers. Although the chip/tile model is a good starting point, it too can lead to challenges. Students will also use a measurement model, the integer number line.
+
+Rules for operating with integers come from extending arithmetic and its properties. Students should understand that arithmetic with negative integers is consistent with arithmetic with positive numbers. If students view negative numbers as the "opposites" of positive numbers (on the number line), they may interpret negative numbers as temperatures below zero, locations below ground (in a building) or locations below sea level. Students need to remember that subtraction in the set of integers is neither commutative nor associative.
+
+By the end of this section, students should understand that 𝑎 − 𝑏 can be written as 𝑎 + (– 𝑏) and that 𝑎 − (– 𝑏) can be written as 𝑎 + 𝑏.
+
+### Concepts and Skills to be Mastered (from standards)
+By the end of this section, students should be able to:
+1. Understand, apply, and explain the additive inverse property.
+2. Model addition and subtraction of integers with chip/tile model and number line model.
+3. Add and subtract integers.
+4. Model and solve real-world problems using numbers and operations.
+5. Explain the solution to a real-world problem in context.
+
+### Example Problems
+1. An osprey flies off the ground and reaches 35 feet above a river when he sees a trout. He then dives 37 feet down to get the trout. How many feet below the water does he end up?
+
+2. In the 1st half of a trivia game, Lila scored 800 points. In the 2nd half, she lost 300 points. What is her final score?
+
+3. A submarine is 800 feet below sea level. It ascends 150 feet. What is its new position?
+
+4. Louis picks up a football that has been fumbled by his quarterback 12 yards behind the line of scrimmage. He runs 15 yards before he is tackled. Where is he relative to the line of scrimmage?

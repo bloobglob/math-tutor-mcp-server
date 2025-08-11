@@ -1,0 +1,29 @@
+## Section 2.3: Add, Subtract, Multiply, Divide Positive and Negative Rational Numbers (All Forms)
+
+### Section Overview:
+In this section, students turn their attention to multiplication and division with rational numbers, as well as reviewing adding and subtracting fractions with unlike denominators (a 5th grade standard). Students have already been introduced to the number line and know that there are more than just integers on the number line; every quotient of integers (with non-zero divisor) is a rational number. Students will carefully look at the definition of integer division, and notice that b ≠ 0. Students will discuss why b ≠ 0 and explain why b ÷ 0 is not defined, or often noted undefined.
+
+The "rules" discovered and the understanding gained with respect to addition, subtraction, multiplication and division of integers in Sections 2.1 and 2.2 will help students to solidify their skills and understanding of operating with rational numbers in Section 2.3 through solving real-word mathematical problems.
+
+Students will spend time estimating with rational numbers. This is not only an important life skill; it is an important skill in making sense of answers and working with technology. Students should get in the habit of estimating answers before they compute them so that they can check the reasonableness of their results.
+
+### Concepts and Skills to be Mastered (from standards)
+By the end of this section, students should be able to:
+1. Model addition and subtraction of rational numbers including integers, decimals, and fractions, on a vertical or horizontal number line.
+2. Add and subtract rational numbers including integers, decimals, and fractions.
+3. Multiply and divide rational numbers, including integers, decimals, and fractions, and use properties of arithmetic to model multiplication and division of rational numbers.
+4. Explain why division by zero is undefined.
+5. Interpret products and quotients of rational numbers, including integers, decimals, and fractions, in real-world contexts.
+6. Model and solve real-world problems using numbers and operations.
+7. Explain the solution to a real-world problem in context.
+
+### Example Problems
+1. During the day, the temperature increases by 3 1/4 degrees. At night, the temperature decreases by 7 3/4 degrees. What is the overall change in temperature?
+
+2. A football team loses 4 1/2 yards on their first play. On the next play, they gain 2 3/4 yards. What is the overall increase or decrease in yards?
+
+3. One of the running backs for the Chargers football team carried the ball 7 times for a total gain of 15 3/4 yards. Find his average yards per carry.
+
+4. The seventh grade collected 3/5 of the cans in the school recycling bins. Mr. Nelson's class collected 1/4 of those cans. What fraction of the cans in the bins were collected by Mr. Nelson's class?
+
+5. Use long division to find out if 5/8 will repeat or terminate when written as a decimal.

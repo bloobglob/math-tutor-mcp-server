@@ -1,0 +1,34 @@
+## Section 5.1: Understand and Apply Unit Rates.
+
+### Section Overview:
+The purpose of this section is to solidify the concept of unit rates. This includes finding unit rates from a
+context, table, graph and/or proportional relationship written as an equation. This section will begin the
+work of helping students to move fluidly among these representations to find missing quantities. The
+students will visualize ratios using models. Particular attention should be paid to models of rates with
+unlike units (for example, miles and hours). Students will identify the unit rate for both units (i.e. miles per
+hour and hours per mile.) Students should then be able to move away from using models and be able to
+recognize the reciprocal relationship of the two unit rates to solve problems.
+This section will also provide practice operations with rational numbers. The students should be
+encouraged to find exact unit rates; i.e. they should be encouraged to use fractions to divide numbers,
+rather than using long division or a calculator and getting decimal approximations. Students should
+understand that using a rounded unit rate will give inaccurate results when finding missing quantities.
+Up until this module, students worked primarily with part: whole relationships (percent, fractional portions,
+and probability.) In this section, students will begin to connect how part: whole relationships give
+information about part: part relationships and vice-versa.
+Rate tables will be introduced but will be further explored and connected to graphs in the next section.
+
+### Concepts and Skills to be Mastered (from standards):
+1. Extend the concept of a unit rate to include ratios of fractions.
+2. Compute a unit rate, involving quantities measured in like or different units.
+3. Determine a unit rate from a table, graph, equation, diagram or verbal description and relate it to the
+constant of proportionality.
+
+### Example Problems
+1. John walks at a constant rate of 8 miles every 3 hours. Answer the following:
+    a. What is John’s rate written as miles and hours?
+    b. Use a bar model to find the unit rate of miles per hour. _____miles : 1 hour
+    c. Use a bar model to find how far John can walk in 5 hours.
+2. Compare Unit Rates: Calculate each unit rate to justify your comparisons and explain in words.
+    a. Jean sells M&Ms to friends at 4 M&Ms for 5 cents. The machine at the store sells 9 M&Ms for 25 cents. Which is the better deal?
+    b. Ribbon: 5 m for $6.45 or 240 cm for $3.19. Which ribbon is cheaper per meter? (1 m = 100 cm)
+    c. Tomas hikes 10.2 miles in 2.7 hours and Sal hikes 13.1 miles in 3.5 hours. Who hikes faster?

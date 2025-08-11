@@ -1,0 +1,42 @@
+## Section 8.1: Probability Models and Random Sampling
+
+### Section Overview:
+This section starts with a review of concepts from Module 1 Section 1 and then extends to a more thorough look at probability models. A complete probability model includes a sample space that lists all possible outcomes, including the probability of each outcome. The sum of the probabilities from the model is always 1. A uniform probability model will have relative frequency probabilities that are equivalent. A probability model of a chance event (which may or may not be uniform) can be approximated through the collection of data and observing the long-run relative frequencies to approximate the theoretical probabilities. Probability models can be used for predictions and determining likely or unlikely events.
+
+There are multiple representations of how probability models can be displayed. These include, but are not limited to: organized lists (including a list that uses set notation), tables, and tree diagrams.
+
+Students will also consider the ramifications of rounding, what it means to have "independent events," how to create a simulation, and further explore the difference between theoretical probability and real life situations. There will be several exploration activities in the section giving students ample opportunity to discuss ideas.
+
+Students will be looking at data from samples and then making inferences from the samples to populations. Students will utilize graphs of data along with measures of center and spread to make comparisons between samples and to make an informal judgment about the variability of the samples. After examining the samples, students will actually make conclusions about the population.
+
+### Concepts and Skills to be Mastered:
+1. Develop a probability model and use it to find probabilities of events.
+2. Compare probabilities from a model to observed frequencies; if the agreement is not good, explain possible sources of the discrepancy.
+3. Understand that, just as with simple events, the probability of a compound event is the fraction of outcomes in the sample space for which the compound event occurs.
+4. Represent sample spaces for compound events using methods such as organized lists, tables, arrays, and tree diagrams.
+5. Use random sampling to obtain a sample from a population.
+6. Understand that random sampling procedures produce samples that can represent population values.
+7. Create appropriate plots of collected data to provide a visual representation of the samples.
+8. Compare samples of the same size from a population in order to guage the variation in the samples. Use this variation to form an estimate of range of where a population value might lie.
+9. Make predictions about a population, based on the samples.
+
+### Example Problems
+1. Jane takes a survey of 100 random students to determine what color of eyes they have. The results are shown in the chart below.
+Eye Color Number of Students: Blue 30, Brown 55, Green 15
+a. Based on the outcome of the survey, what is the expected probability of picking a student with green eyes?
+b. If there are 40 students in her class, how many would you expect would have green eyes?
+
+2. A bag contains 4 red M&M's and 6 blue M&M's. Once an M&M is drawn, it is eaten before a second M&M is drawn.
+a. P(red then blue) b. P(red then red) c. P(blue then blue)
+
+3. A bag contains 3 red marbles and 5 pink marbles. A marble is drawn and is not replaced.
+a. P(the first marble is red and the second is pink)
+b. P(both marbles are red)
+c. P(red, then pink, then red)
+
+4. The PTSA wants to increase the number of students who eat hot lunch at school. The leadership class has been asked to conduct a survey of the student body to determine the students' preferences for hot lunch. They have determined two ways to do the survey. The two methods are listed below.
+• Survey the first 20 students that enter the lunch room.
+• Survey every 3rd student who gets off the bus.
+a. Determine if each survey option would produce a random sample.
+b. Which survey option should they choose and why?
+

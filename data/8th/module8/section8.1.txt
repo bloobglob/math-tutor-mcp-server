@@ -1,0 +1,19 @@
+## Section 8.1: Rigid Motion and Congruence
+
+### Section Overview:
+In this section, students study the different types of rigid motion: translations, reflections, and rotations. Students begin with translations and describe them both in words and with coordinate rules. They explore reflections, including those over horizontal/vertical lines and the lines y = x and y = -x, and write coordinate rules. Then they study rotations, primarily in 90˚ increments, both at the origin and other points. Students describe sequences of rigid motions and use them to determine congruence.
+
+### Concepts and Skills to be Mastered:
+1. Describe translations using words and coordinate rules; perform translations.
+2. Understand the properties and effects of translations.
+3. Describe reflections using words and coordinate rules; perform reflections and identify lines of reflection.
+4. Understand the properties and effects of reflections.
+5. Describe and perform rotations, including around points not at the origin.
+6. Understand the properties of rotations and connect them to perpendicular slopes.
+7. Determine congruence based on rigid motions and describe the sequence of transformations showing congruence.
+
+### Example Problems
+1. On the grid below, the pre-image ABCD has been transformed to obtain the image A′B′C′D′. Write the coordinate rule that describes this translation.
+2. Reflect pre-image ABCD over the y-axis. In the table, write the coordinates of the pre-image and image. Write a coordinate rule for the reflection.
+3. Rotate triangle ABC 90° clockwise about the origin and write the coordinate rule. Verify with slope and distance formula.
+4. Reflect triangle DEF over a line, and write the equation of the line of reflection.

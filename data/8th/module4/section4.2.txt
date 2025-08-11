@@ -1,0 +1,21 @@
+## Section 4.2: Solve Simultaneous Linear Equations by Elimination
+
+### Section Overview:
+In this section, students are solving simultaneous linear equations that have one, no, or infinitely many solutions using algebraic methods. This section utilizes concrete models and real-world problems in order to help students grasp the concept of elimination. Students will create systems of linear equations and solve them, evaluating when one solving strategy may be easier to use. They will also be required to interpret the solution in the context and make decisions based on the solution. Students will apply their knowledge of linear equations to graphing systems of linear inequalities.
+
+### Concepts and Skills to Master:
+By the end of this section, students should be able to:
+• Solve simultaneous linear equations using elimination.
+• Determine which method of solving a system of linear equations may be easier depending on the problem.
+• Create a system of equations to model a real-world problem, solve the system, and interpret the solution in the context.
+• Interpret the solution to a system of linear equations in a context and make decisions based on the solution.
+• Graph systems of linear inequalities.
+
+### Example Problems
+1. Tickets for a matinee are $5 for children and $8 for adults. The theater sold a total of 142 tickets in one day and ticket sales totaled $890. How many of each type of ticket did the theater sell?
+
+2. Jasper has a coin collection consisting of quarters and dimes. He has 50 coins worth $8.60. How many of each coin does he have?
+
+3. Michael has $11.25 in nickels, dimes, and quarters. He has 3 times as many nickels as dimes and 5 more quarters than dimes. How many of each kind of coin does he have?
+
+4. Percy is concerned about the food he is feeding his cat Lucky. The veterinarian recommended that Lucky's diet includes at least 30 grams of protein and at least 16 grams of fat per day. Lucky should not eat more than 12 ounces of food per day. Percy can choose between two types of cat food: Food X (each ounce provides 2 grams of protein and 4 grams of fat) and Food Y (each ounce provides 6 grams of protein and 2 grams of fat).
